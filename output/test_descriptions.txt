@@ -1,0 +1,1155 @@
+000000205086.jpg	startseq một cậu bé đang chống đẩy trên quả banh endseq
+000000205086.jpg	startseq một cậu bé đang chống đầu lên quả bóng_đá hít đất endseq
+000000205086.jpg	startseq một cậu bé đang hít đất đầu trên quả banh trên cỏ endseq
+000000205086.jpg	startseq một cậu bé đang hít đất cùng quả bóng và một cậu bé đang quan_sát endseq
+000000205086.jpg	startseq một cậu bé đang chống đẩy trên một quả bóng_đá endseq
+000000304473.jpg	startseq một vận_động_viên bóng chày nữ đang ném quả bóng chày endseq
+000000304473.jpg	startseq người phụ_nữ vừa ném quả bóng chày về phía trước endseq
+000000304473.jpg	startseq cầu_thủ bóng chày nữ đang vừa chạy vừa ném quả bóng endseq
+000000304473.jpg	startseq người phụ_nữ đang chạy trên sân tay ném bóng endseq
+000000304473.jpg	startseq người phụ_nữ đang ném quả bóng về phía trước endseq
+000000123697.jpg	startseq một poster có nhiều hình_ảnh của nhiều lĩnh_vực endseq
+000000123697.jpg	startseq một bức poster quảng_cáo về nhiều thể_loại endseq
+000000123697.jpg	startseq một trang_bìa có nhiều vuông chứa nhiều hình_ảnh khác nhau endseq
+000000123697.jpg	startseq nhiều bức tranh với nhiều lĩnh_vực được ghép lại endseq
+000000123697.jpg	startseq một hình_ảnh có nhiều thể_loại như thể_thao xe_cộ văn_học endseq
+000000319731.jpg	startseq hai hình_ảnh người phụ_nữ đang chơi tennis endseq
+000000319731.jpg	startseq hình_ảnh kép của một vận_động_viên tennis nữ đang thi_đấu endseq
+000000319731.jpg	startseq vận_động_viên tennis nữ đang bước tới vung vợt đỡ bóng endseq
+000000319731.jpg	startseq vận_động_viên tennis nữ đang cầm vợt thi_đấu trên sân endseq
+000000319731.jpg	startseq vận_động_viên tennis nữ đang vung vợt đỡ bóng endseq
+000000490268.jpg	startseq một_số người đàn_ông đang chơi bóng_chày trên sân endseq
+000000490268.jpg	startseq cầu_thủ bóng chày đang trườn trên sân tranh bóng endseq
+000000490268.jpg	startseq một_số cầu_thủ bóng chày đang thi_đấu trên sâu endseq
+000000490268.jpg	startseq hai cầu_thủ bóng chày đang tranh_bóng trên sân endseq
+000000490268.jpg	startseq một trận bóng_chày đang diễn ra với nhiều người quan_sát endseq
+000000520457.jpg	startseq những đứa trẻ đang chơi với mô_hình bóng chày endseq
+000000520457.jpg	startseq một đứa trẻ đang ném bóng vào cầu_thủ bóng chày giả endseq
+000000520457.jpg	startseq những đứa trẻ đang xếp_hàng ném bóng vào tấm bảng endseq
+000000520457.jpg	startseq những đứa trẻ đang xếp_hàng chơi một trò bóng chày endseq
+000000520457.jpg	startseq một đứa trẻ đang ném quả bóng về phía hình_ảnh hai cầu_thủ bóng chày endseq
+000000521865.jpg	startseq một người đàn_ông cởi trần tay cầm bóng bầu_dục endseq
+000000521865.jpg	startseq một người đàn_ông chuẩn_bị ném quả bóng bầu_dục endseq
+000000521865.jpg	startseq một người đàn_ông không mặc áo cầm quả bóng bầu_dục đứng ngoài sân endseq
+000000521865.jpg	startseq một thanh_niên trong tư_thế chuẩn_bị ném bóng endseq
+000000521865.jpg	startseq một thanh_niên cởi_trần chơi bóng bầu_dục ngoài sân endseq
+000000256884.jpg	startseq người phụ_nữ áo đỏ đang nhảy lên đánh trả bóng endseq
+000000256884.jpg	startseq người phụ_nữ áo đỏ đang chơi tennis trên sân endseq
+000000256884.jpg	startseq người phụ_nữ đang cầm vợt tennis đỡ bóng cao endseq
+000000256884.jpg	startseq người phụ_nữ áo đỏ đang cầm vợt tennis thi_đấu trên sân endseq
+000000256884.jpg	startseq người phụ_nữ đang cầm vợt tennis nhảy lên đỡ bóng endseq
+000000276420.jpg	startseq hai hình_ảnh giống nhau của người phụ_nữ đang cầm vợt tennis đứng khuỵu chân trên sân endseq
+000000276420.jpg	startseq vận_động_viên tennis nữ đang câm_vợt khum người đỡ bóng thấp endseq
+000000276420.jpg	startseq vận_động_viên tennis nữ đang cầm vợt đứng thấp người chuẩn_bị đỡ bóng endseq
+000000276420.jpg	startseq hình_ảnh kép của người phụ_nữ đang chơi tennis trên sân endseq
+000000276420.jpg	startseq hai hình_ảnh giống nhau của người phụ_nữ đang cầm vợt tennis đứng trên sân endseq
+000000184371.jpg	startseq một cầu_thủ bóng chày đang nhìn quả bóng chày endseq
+000000184371.jpg	startseq một người đàn_ông với cái găng_tay đang nhìn quả bóng chày endseq
+000000184371.jpg	startseq quả bóng_chày đang bay trước mặt một cầu_thủ bóng chày endseq
+000000184371.jpg	startseq quả bóng_chày đang bay trước mặt một cầu_thủ bắt bóng endseq
+000000184371.jpg	startseq quả bóng_chày đang bay trước mặt một cầu_thủ ném bóng endseq
+000000083174.jpg	startseq cầu_thủ đánh bóng đang vung_gậy để đánh bóng endseq
+000000083174.jpg	startseq cầu_thủ đánh bóng đang nghiêng người để đánh bóng endseq
+000000083174.jpg	startseq một người đàn_ông đang vung_gậy để đánh_quả bóng chày endseq
+000000083174.jpg	startseq cầu_thủ bắt bóng và trọng_tài đang theo_dõi động_tác của cầu_thủ đánh bóng endseq
+000000083174.jpg	startseq một người đàn_ông đang xoay người để đánh_quả bóng chày endseq
+000000174574.jpg	startseq người phụ_nữ áo tím đang đứng trước người phụ_nữ áo xám trên sân endseq
+000000174574.jpg	startseq hai người phụ_nữ đang chơi tennis trong nhà endseq
+000000174574.jpg	startseq người phụ_nữ áo xám đang tung quả bóng lên cao để phát_bóng trên sân tennis endseq
+000000174574.jpg	startseq người phụ_nữ áo xám đang chuẩn_bị phát_bóng trên sân tennis endseq
+000000174574.jpg	startseq người phụ_nữ áo xám đang chuẩn_bị phát_bóng trong khi người phụ_nữ áo tím đang đứng trên sân tennis endseq
+000000150477.jpg	startseq một người đàn_ông đang giơ gậy lên cao để chuẩn_bị đánh bóng endseq
+000000150477.jpg	startseq một cầu_thủ đánh bóng đang giơ gậy lên cao để chuẩn_bị đánh bóng endseq
+000000150477.jpg	startseq trọng_tài và cầu_thủ đánh bóng đang theo_dõi chuyển_động của cầu_thủ ném bóng endseq
+000000150477.jpg	startseq một cầu_thủ ném bóng đang ném quả bóng về phía cầu_thủ đánh bóng và trọng_tài endseq
+000000150477.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000565360.jpg	startseq các cầu_thủ bóng_đá đang thi_đấu ngoài_trời endseq
+000000565360.jpg	startseq cầu_thủ áo vàng và cầu_thủ áo trắng đang chạy cạnh nhau trên sân endseq
+000000565360.jpg	startseq cầu_thủ áo vàng đang tranh_chấp bóng với cầu_thủ áo trắng endseq
+000000565360.jpg	startseq những người đàn_ông đang chơi bóng_đá ngoài_trời endseq
+000000565360.jpg	startseq cầu_thủ áo trắng đang tranh_chấp bóng với cầu_thủ áo vàng endseq
+000000099184.jpg	startseq các cầu_thủ bóng_đá đang đứng trên sân trước trận đấu endseq
+000000099184.jpg	startseq một cầu_thủ bóng_đá đang đứng trước khung_thành với quả bóng trên tay endseq
+000000099184.jpg	startseq những người đàn_ông đang đứng trên sân bóng_đá endseq
+000000099184.jpg	startseq thủ_môn đang cầm quả bóng trên tay trước khung_thành endseq
+000000099184.jpg	startseq một người đàn_ông đang cầm quả bóng trên tay và đứng trước khung_thành endseq
+000000465412.jpg	startseq trên sân một người phụ_nữ đang cầm vợt tennis và ngửa mặt lên trời endseq
+000000465412.jpg	startseq trên sân một người phụ_nữ đang đưa vợt tennis ra sau và quan_sát quả bóng endseq
+000000465412.jpg	startseq trên sân một nữ vận_động_viên tennis đang chuẩn_bị phát_bóng endseq
+000000465412.jpg	startseq trên sân một nữ vận_động_viên tennis đang ngửa mặt lên để quan_sát quả bóng endseq
+000000465412.jpg	startseq trên sân tennis một người phụ_nữ đang chuẩn_bị phát_bóng endseq
+000000416355.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000416355.jpg	startseq hai người phụ_nữ đang chơi tennis trên sân endseq
+000000416355.jpg	startseq một người phụ_nữ đang cầm_vợt và di_chuyển trên sân endseq
+000000416355.jpg	startseq hai bức ảnh của hai người phụ_nữ đang chơi tennis trên sân endseq
+000000416355.jpg	startseq hai nữ vận_động_viên tennis đang thi_đấu trên sân endseq
+000000070749.jpg	startseq một người đàn_ông đang nhảy lên để đánh_quả bóng tennis endseq
+000000070749.jpg	startseq một nam vận_động_viên tennis đang vươn người để đánh bóng endseq
+000000070749.jpg	startseq một nam vận_động_viên tennis đang thi_đấu trên sân endseq
+000000070749.jpg	startseq một người đàn_ông đang vươn người để đánh_quả bóng tennis endseq
+000000070749.jpg	startseq một nam vận_động_viên tennis đang nhảy lên để đánh bóng endseq
+000000145926.jpg	startseq cầu_thủ ném bóng đang giơ quả bóng lên cao để chuẩn_bị ném bóng endseq
+000000145926.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000145926.jpg	startseq các cầu_thủ bóng chày đang thi_đấu trên sân endseq
+000000145926.jpg	startseq cầu_thủ đánh bóng đang theo_dõi động_tác của cầu_thủ ném bóng endseq
+000000145926.jpg	startseq cầu_thủ ném bóng đang xoay người để chuẩn_bị ném bóng endseq
+000000032603.jpg	startseq bên trong cái thùng gỗ có các dụng_cụ thể_thao endseq
+000000032603.jpg	startseq cái thùng gỗ đang mở nắp với găng_tay cây gậy dây và những quả bóng endseq
+000000032603.jpg	startseq bộ dụng_cụ chơi bóng_chày và bóng bầu_dục trong cái thùng gỗ endseq
+000000032603.jpg	startseq một cái thùng gỗ cũ đựng các dụng_cụ thể_thao bên trong endseq
+000000032603.jpg	startseq một cái thùng gỗ có găng_tay quả bóng chày dây và quả bóng bầu_dục endseq
+000000073999.jpg	startseq hai hình_ảnh của cùng một người đang chơi tennis endseq
+000000073999.jpg	startseq một người đàn_ông đang chơi tennis trên sân endseq
+000000073999.jpg	startseq một người đàn_ông đang đánh_quả bóng tennis trên sân endseq
+000000073999.jpg	startseq một vận_động_viên tennis đang thi_đấu trên sân endseq
+000000073999.jpg	startseq một vận_động_viên tennis đang nghiêng người để đánh bóng trên sân endseq
+000000031642.jpg	startseq một ngời đàn_ông đang chuẩn_bị phát_bóng trên sân tennis endseq
+000000031642.jpg	startseq một người đàn_ông đang chuẩn_bị phát quả bóng tennis endseq
+000000031642.jpg	startseq một vận_động_viên tennis đang luyện_tập ngoài_trời endseq
+000000031642.jpg	startseq một vận_động_viên tennis đang chuẩn_bị phát_bóng endseq
+000000031642.jpg	startseq một người đàn_ông đang luyện_tập tennis ngoài_trời endseq
+000000045049.jpg	startseq hai người đang chơi tennis trên sân vào ban_đêm endseq
+000000045049.jpg	startseq ngươi phụ_nữ áo vàng đang đứng nhìn động_tác đánh_quả bóng tennis của đối_thủ endseq
+000000045049.jpg	startseq hai người đang luyện_tập tennis trên sân vào ban_đêm endseq
+000000045049.jpg	startseq người phụ_nữ áo đen đang đánh_quả bóng tennis về phía đối_thủ endseq
+000000045049.jpg	startseq hai người phụ_nữ đang chơi tennis trên sân vào ban_đêm endseq
+000000473616.jpg	startseq vận_động_viên tennis đang cầm_vợt và bóng_đứng trên sân trong trận endseq
+000000473616.jpg	startseq vận_động_viên tennis đang cầm vợt đứng ngoài biên giao_bóng endseq
+000000473616.jpg	startseq vận_động_viên tennis nam đang cầm vợt thi_đấu trước đông_đảo khán_giả endseq
+000000473616.jpg	startseq vận_động_viên tennis nam đang thi_đấu trước đông_đảo khán_giả endseq
+000000473616.jpg	startseq người đàn_ông áo trắng đang chơi tennis trên sân endseq
+000000349919.jpg	startseq hai hình_ảnh giống nhau của người phụ_nữ đang thi_đấu tennis endseq
+000000349919.jpg	startseq hai vận_động_viên tennis nữ đang cầm vợt thi_đấu trên sân endseq
+000000349919.jpg	startseq người phụ_nữ đang cầm vợt tennis đứng trên sân đánh bóng endseq
+000000349919.jpg	startseq người phụ_nữ đang cầm vợt tennis đỡ bóng cao endseq
+000000349919.jpg	startseq hình_ảnh kép của người phụ_nữ đang chơi tennis trên sân endseq
+000000518858.jpg	startseq những cầu_thủ bóng_đá đang tập_luyện trên sân endseq
+000000518858.jpg	startseq các cầu_thủ bóng_đá đang luyện_tập đá bóng trên sân endseq
+000000518858.jpg	startseq các cầu_thủ bóng_đá đang luyện_tập trên sân cỏ endseq
+000000518858.jpg	startseq hình_ảnh một đội bóng đang tập_luyện trên sân trước nhiều người quan_sát endseq
+000000518858.jpg	startseq một đội bóng đang tập_luyện trên sân thi_đấu endseq
+000000564627.jpg	startseq một người đàn_ông đang chuẩn_bị đánh_quả bóng tennis endseq
+000000564627.jpg	startseq một người đàn_ông đang vung_vợt đánh_quả bóng tennis endseq
+000000564627.jpg	startseq một nam vận_động_viên tennis đang vung_vợt để đánh_quả bóng tennis endseq
+000000564627.jpg	startseq hai bức ảnh của một nam vận_động_viên tennis đang vung_vợt để đánh bóng endseq
+000000564627.jpg	startseq hai bức ảnh của một người đàn_ông đang vung_vợt để đánh_quả bóng tennis endseq
+000000391325.jpg	startseq những đứa trẻ đang dẫn bóng trên sân cỏ endseq
+000000391325.jpg	startseq những đứa trẻ đang luyện_tập đá bóng trên sân endseq
+000000391325.jpg	startseq những đứa trẻ đang cùng nhau đá bóng trên sân endseq
+000000391325.jpg	startseq những đứa trẻ đang ngoài sân tập đá bóng endseq
+000000391325.jpg	startseq một_số những đứa trẻ đang chơi bóng_đá trên sân endseq
+000000316807.jpg	startseq người phụ_nữ đang vung vợt tennis về phía bóng endseq
+000000316807.jpg	startseq vận_động_viên tennis đang cầm vợt nhảy lên đỡ bóng endseq
+000000316807.jpg	startseq vận_động_viên tennis nữ đang thi_đấu trên sân endseq
+000000316807.jpg	startseq người phụ_nữ áo đen đang chơi tennis trên sân endseq
+000000316807.jpg	startseq người phụ_nữ vừa thực_hiện cú đỡ bóng cao bằng vợt tennis endseq
+000000401094.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000401094.jpg	startseq một người phụ_nữ đang dùng vợt để đánh_quả bóng tennis endseq
+000000401094.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị đánh bóng endseq
+000000401094.jpg	startseq một nữ vận_động_viên tennis đang bước tới trước để đánh bóng endseq
+000000401094.jpg	startseq một người phụ_nữ đang bước tới trước để đánh_quả bóng tennis endseq
+000000198042.jpg	startseq người đàn_ông mặc áo trắng đang chơi bóng_chày trên sân endseq
+000000198042.jpg	startseq người đàn_ông mặc áo trắng đang chuẩn_bị ném bóng endseq
+000000198042.jpg	startseq cầu_thủ bóng chày đang thực_hiện động_tác ném bóng endseq
+000000198042.jpg	startseq cầu_thủ bóng chày đang bước về sau ném bóng về phía trước endseq
+000000198042.jpg	startseq cầu_thủ bóng chày áo_số đang chuẩn_bị ném bóng endseq
+000000085872.jpg	startseq các cầu_thủ khác đang theo_dõi cú ném bóng của cầu_thủ ném bóng endseq
+000000085872.jpg	startseq cầu_thủ ném bóng đang chuẩn_bị ném quả bóng trong tay endseq
+000000085872.jpg	startseq cầu_thủ ném bóng đang luyện_tập ném bóng dưới sự theo_dõi của đồng_đội endseq
+000000085872.jpg	startseq những người đàn_ông đang chơi bóng_chày ngoài_trời endseq
+000000085872.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000216556.jpg	startseq đứa trẻ đang cầm vợt đánh tennis trên sân endseq
+000000216556.jpg	startseq đứa trẻ đang luyện_tập tennis trên sân cùng nhiều bóng tennis xung_quanh endseq
+000000216556.jpg	startseq đứa trẻ đang cầm vợt tennis đứng trên sân endseq
+000000216556.jpg	startseq đứa trẻ đang cầm vợt tennis luyện_tập trên sân endseq
+000000216556.jpg	startseq đứa trẻ đang đứng trên sân tennis tay cầm vợt tennis endseq
+000000548822.jpg	startseq người đàn_ông đang chơi bóng_đá ngoài sân endseq
+000000548822.jpg	startseq một người đang dẫn bóng trên sân cỏ endseq
+000000548822.jpg	startseq một người đang đá bóng trên sân cỏ endseq
+000000548822.jpg	startseq người đàn_ông đang chơi bóng trên san cỏ dưới trời nắng endseq
+000000548822.jpg	startseq một người đàn_ông đang luyện_tập đá bóng ngoài sân cỏ endseq
+000000245697.jpg	startseq quả bóng chày đang nàm kế bên gậy bóng_chày trên bàn endseq
+000000245697.jpg	startseq gậy bóng_chày và quả bóng chày được đặt trên bàn trưng_bày endseq
+000000245697.jpg	startseq quả bóng chày nằm trên trụ đặt trên bàn cùng gậy bóng chày endseq
+000000245697.jpg	startseq gậy bóng chày đang nằm trên bàn cùng quả bóng chày endseq
+000000245697.jpg	startseq hình_ảnh của gậy bóng_chày và quả bóng_chày đang trưng_bày trên bàn endseq
+000000009895.jpg	startseq hình_ảnh hai cậu bé đang chơi trong khu dân_cư endseq
+000000009895.jpg	startseq một cậu bé đang vung_gậy đánh bóng và một cậu bé ngồi trên xe_đạp endseq
+000000009895.jpg	startseq hai cậu bé đang chơi_đùa trên vỉa_hè ngoài_trời endseq
+000000009895.jpg	startseq một cậu bé đang ngồi nhìn bạn của mình luyện_tập bóng chày endseq
+000000009895.jpg	startseq một cậu bé đang cầm gậy bóng chày và một cậu bé ngồi trên xe_đạp endseq
+000000252470.jpg	startseq cầu_thủ bóng chày đang cầm gậy thi_đấu trên sân endseq
+000000252470.jpg	startseq cầu_thủ bóng chày đang vung_gậy đánh trả bóng trong trận endseq
+000000252470.jpg	startseq cầu_thủ bóng chày đang vung gậy đỡ bóng trên sân_nhà endseq
+000000252470.jpg	startseq cầu_thủ bóng chày đang đứng trên sân_nhà cầm gậy đỡ bóng endseq
+000000252470.jpg	startseq người đàn_ông áo đen đang chơi bóng_chày trên sân endseq
+000000347604.jpg	startseq người phụ_nữ áo đỏ cầm vợt tennis đang đỡ bóng endseq
+000000347604.jpg	startseq hai người phụ_nữ áo trắng đang cầm vợt tennis đứng quan_sát bóng endseq
+000000347604.jpg	startseq người phụ_nữ áo đỏ đang cầm vợt tennis đứng trên sân đánh bóng endseq
+000000347604.jpg	startseq hình_ảnh kép của những người phụ_nữ đang thi_đấu tennis trên sân endseq
+000000347604.jpg	startseq hai hình_ảnh giống nhau của những người phụ_nữ đang chwoi tennis endseq
+000000457275.jpg	startseq một con chó đang chạm chân vào quả bóng trên sân cỏ endseq
+000000457275.jpg	startseq một con chó đang dùng chân để chạm vào quả bóng trên sân cỏ endseq
+000000457275.jpg	startseq một con chó đang dùng chân để chạm vào quả bóng trong vườn endseq
+000000457275.jpg	startseq một con chó đang chạm chân vào quả bóng trong vườn endseq
+000000457275.jpg	startseq một con chó đang đứng cạnh quả bóng trên sân cỏ endseq
+000000253264.jpg	startseq hình_ảnh của đứa trẻ và người đàn_ông đang chơi bóng_chày trên sân endseq
+000000253264.jpg	startseq người đàn_ông đang đeo găng_tay bóng chày chụp bóng từ đứa trẻ endseq
+000000253264.jpg	startseq đứa trẻ đang ném quả bóng_chày cho người đàn_ông endseq
+000000253264.jpg	startseq đứa trẻ đang ném quả bóng chày về phía người đàn_ông endseq
+000000253264.jpg	startseq hình_ảnh của đứa trẻ đang chơi bóng_chày cùng người đàn_ông endseq
+000000324006.jpg	startseq cầu_thủ bắt bóng đang đưa tay ra phía trước đón bóng endseq
+000000324006.jpg	startseq cầu_thủ bát bóng đang ngồi thấp người đón bóng endseq
+000000324006.jpg	startseq một sô người đang chơi bóng_chày trên sân endseq
+000000324006.jpg	startseq cầu_thủ đánh bóng đang vung_vợt về phía quả bóng chày endseq
+000000324006.jpg	startseq trọng_tài đang đứng sau cầu_thủ ném bóng quan_sát trận đấu endseq
+000000154496.jpg	startseq những người bạn đang chơi bóng_đá trong công_viên endseq
+000000154496.jpg	startseq một người đàn_ông đang tâng_bóng trong công_viên endseq
+000000154496.jpg	startseq những người đàn_ông đang chơi bóng_đá trên sân endseq
+000000154496.jpg	startseq những người đàn_ông đang chơi bóng_đá trong công_viên endseq
+000000154496.jpg	startseq nhiều người đang tụ_tập trong công_viên endseq
+000000048604.jpg	startseq các cầu_thủ đang đứng cùng những quả bóng trên sân endseq
+000000048604.jpg	startseq các cầu_thủ đang bước_đi trên sân bóng_đá endseq
+000000048604.jpg	startseq những người đàn_ông đang đứng cùng những quả bóng trên sân cỏ endseq
+000000048604.jpg	startseq những người đàn_ông đang đứng cạnh những quả bóng trên sân endseq
+000000048604.jpg	startseq các cầu_thủ đang khởi_động trên sân trước khi thi_đấu endseq
+000000542745.jpg	startseq người đàn_ông áo trắng đang chơi tennis trên sân endseq
+000000542745.jpg	startseq người đàn_ông đang cầm_vợt và bóng tennis đứng trên sân endseq
+000000542745.jpg	startseq người đàn_ông đang cầm vợt tennis và bóng_đứng trên sân endseq
+000000542745.jpg	startseq người đàn_ông áo trắng đang cầm vợt đánh tennis endseq
+000000542745.jpg	startseq người đàn_ông đang cầm_vợt và bóng_tennis chuẩn_bị giao_bóng endseq
+000000333546.jpg	startseq người phụ_nữ đang cầm vợt tennis thi_đấu trên sân endseq
+000000333546.jpg	startseq người phụ_nữ đang vung vợt tennis về phía bóng endseq
+000000333546.jpg	startseq người phụ_nữ đang cầm vợt tennis đỡ bóng thấp endseq
+000000333546.jpg	startseq hình_ảnh đôi của nguwofi phụ_nữ đang chơi tennis trên sân endseq
+000000333546.jpg	startseq người phụ_nữ đang hạ_vợt tennis xuống thấp đánh bóng endseq
+000000373177.jpg	startseq hai hình_ảnh giống nhau của hai vận_động_viên đang thi_đấu endseq
+000000373177.jpg	startseq hai vận_động_viên tennis đang cầm vợt thi_đấu đôi endseq
+000000373177.jpg	startseq hình_ảnh kép của hai người đang chơi tennistrên sân endseq
+000000373177.jpg	startseq hai vận_động_viên tennis áo tím đang đấu đôi trên sân endseq
+000000373177.jpg	startseq hai vận_động_viên tennis đang thi_đấu chung_đội trên sân endseq
+000000153921.jpg	startseq các cầu_thủ bóng_đá đang nói_chuyện với trọng_tài rải_rác trên sân endseq
+000000153921.jpg	startseq trọng_tài đang đứng cạnh các cầu_thủ bóng_đá trên sân endseq
+000000153921.jpg	startseq trọng_tài đang nói_chuyện với các cầu_thủ bóng_đá trên sân endseq
+000000153921.jpg	startseq các cầu_thủ bóng_đá đang đứng rải_rác trên sân endseq
+000000153921.jpg	startseq các cầu_thủ bóng_đá và trọng_tài đang đứng trên sân endseq
+000000529964.jpg	startseq vận_động_viên tennis nữ đang vung vợt đỡ bóng endseq
+000000529964.jpg	startseq hình_ảnh kép của người phụ_nữ đang cầm vợt chơi tennis endseq
+000000529964.jpg	startseq vận_động_viên tennis nữ đang cầm vợt thi_đấu trên sân endseq
+000000529964.jpg	startseq hai hình_ảnh giống nhau người phụ_nữ đang chơi tennis endseq
+000000529964.jpg	startseq vận_động_viên tennis nữ cầm vợt đỡ bóng thấp endseq
+000000090464.jpg	startseq một trận thi_đấu tennis đôi nam đang diễn ra trên sân endseq
+000000090464.jpg	startseq hai nam vận_động_viên tennis đang cầm_vợt và đứng trên sân endseq
+000000090464.jpg	startseq hai nam vận_động_viên tennis đang thi_đấu trên sân endseq
+000000090464.jpg	startseq hai nam vận_động_viên tennis đang đứng nhìn quả bóng endseq
+000000090464.jpg	startseq hai người đàn_ông đang chơi tennis trên sân endseq
+000000287656.jpg	startseq người đàn_ông áo trắng đang chơi bóng_chày trên sân endseq
+000000287656.jpg	startseq cầu_thủ bóng chày đang vung gậy đỡ bóng trong trận endseq
+000000287656.jpg	startseq cầu_thủ bóng chày đang đỡ bóng bằng gậy bóng chày endseq
+000000287656.jpg	startseq cầu_thủ bóng chày đang vung_gậy đánh trả bóng endseq
+000000287656.jpg	startseq cầu_thủ bóng chày áo_số đang cầm gậy thi_đấu trên sân endseq
+000000380351.jpg	startseq các cầu_thủ bóng_đá đang mặc áo_khoác luyện_tập trên sân endseq
+000000380351.jpg	startseq các cầu_thủ bóng_đá đang luyện_tập trên sân dưới trời nắng endseq
+000000380351.jpg	startseq các cầu_thủ bóng_đá đang đứng trên sân cùng bóng endseq
+000000380351.jpg	startseq một_số người đàn_ông đang đứng trên sân_cỏ cạnh những quả bóng endseq
+000000380351.jpg	startseq các cầu_thủ bóng_đá đang cùng nhau luyện_tập bóng_đá trên sân endseq
+000000221625.jpg	startseq hai hình_ảnh giống nhau của người phụ_nữ đang đánh tennis endseq
+000000221625.jpg	startseq hình_ảnh kép của người phụ_nữ đang chơi tennis trên sân endseq
+000000221625.jpg	startseq người phụ_nữ áo trắng đang vung vợt tennis đánh bóng endseq
+000000221625.jpg	startseq người phụ_nữ đang đứng trên sân tay cầm vợt tennis endseq
+000000221625.jpg	startseq người phụ_nữ đang cầm vợt tennis đỡ bóng thấp endseq
+000000538747.jpg	startseq người đàn_ông áo trắng đang chơi bóng_chày trên sân endseq
+000000538747.jpg	startseq hình_ảnh cầu_thủ bóng chày đang thi_đấu và số endseq
+000000538747.jpg	startseq cầu_thủ bóng chày đang vung gậy đỡ bóng trong một trận đấu endseq
+000000538747.jpg	startseq cầu_thủ bóng chày đang thi_đấu trước đông_đảo khán_giả endseq
+000000538747.jpg	startseq cầu_thủ bóng chày đang cầm gậy thi_đấu trên sân endseq
+000000375321.jpg	startseq vận_động_viên tennis đang đứng ngoài biên_ném bóng lên phát bóng endseq
+000000375321.jpg	startseq vận_động_viên tennis đang cầm vợt thi_đấu trên sân endseq
+000000375321.jpg	startseq vận_động_viên tennis đang cầm vợt đứng ngoài biên_đánh bóng endseq
+000000375321.jpg	startseq người đàn_ông áo trắng đang chơi tennis trên sân endseq
+000000375321.jpg	startseq vận_động_viên tennis đang cầm vợt đứng ngoài biên giao_bóng endseq
+000000094893.jpg	startseq hai người đàn_ông đang chơi bóng_đá trên sân endseq
+000000094893.jpg	startseq cầu_thủ áo cam đang theo_dõi động_tác hãm bóng của cầu_thủ áo đen endseq
+000000094893.jpg	startseq hai cầu_thủ đang thi_đấu bóng_đá trên sân endseq
+000000094893.jpg	startseq cầu_thủ áo đen đang dùng bụng để hãm bóng endseq
+000000094893.jpg	startseq một người đàn_ông đang dùng bụng để hãm bóng endseq
+000000306890.jpg	startseq người đàn_ông cầm vợt đang hạ thấp người để đón bóng thấp endseq
+000000306890.jpg	startseq vận_động_viên tennis đang bước dài để đón banh tennis endseq
+000000306890.jpg	startseq người đàn_ông cầm vợt tennis đang đuổi theo bóng endseq
+000000306890.jpg	startseq người đàn_ông áo vàng đang chơi tennis trên sân endseq
+000000306890.jpg	startseq vận_động_viên nam tennis đang thi_đấu trên sân endseq
+000000392520.jpg	startseq đội tennis áo_cam đang đỡ bóng qua phần sân bên kia endseq
+000000392520.jpg	startseq một_số người đang chơi tennis trên sân endseq
+000000392520.jpg	startseq cầu_thủ tennis của đội áo cao đang cố_gắng đỡ bóng endseq
+000000392520.jpg	startseq hai cầu_thủ tennis cùng đội đang thi_đấu trên sân endseq
+000000392520.jpg	startseq hai cầu_thủ tennis áo_cam đang càm vợt thi_đấu trên sân endseq
+000000405210.jpg	startseq một trận thi_đấu bóng_đá nam đang diễn ra trên sân endseq
+000000405210.jpg	startseq các bác_sĩ đang chăm_sóc cho cầu_thủ trên sân endseq
+000000405210.jpg	startseq các cầu_thủ bóng_đá đang đứng rải_rác trên sân endseq
+000000405210.jpg	startseq một nam cầu_thủ đang bị chấn_thương trên sân endseq
+000000405210.jpg	startseq khán_giả đang theo_dõi diễn_biến của trận thi_đấu bóng_đá nam endseq
+000000306456.jpg	startseq người đàn_ông trẻ đang giữ bóng dưới chân endseq
+000000306456.jpg	startseq người đàn_ông đang chơi đá banh trên sân cỏ endseq
+000000306456.jpg	startseq người đàn_ông áo đỏ đang chơi bóng_đá trên sân endseq
+000000306456.jpg	startseq người đàn_ông chuẩn_bị thực_hiện cú sút bóng endseq
+000000306456.jpg	startseq người đàn_ông chuẩn_bị đá bóng endseq
+000000125218.jpg	startseq ba người đang đứng trên sân bóng_chày với găng_tay và nón_bảo_hiểm endseq
+000000125218.jpg	startseq hai người phụ_nữ đang đứng cạnh gôn trên sân endseq
+000000125218.jpg	startseq người đàn_ông đang đứng quay lưng với hai người phụ_nữ cạnh gôn endseq
+000000125218.jpg	startseq người đàn_ông đang xoay đầu về phía hai người phụ_nữ cạnh gôn endseq
+000000125218.jpg	startseq hai người phụ_nữ và một người đàn_ông đang chơi bóng_chày trên sân endseq
+000000080215.jpg	startseq một người đànông đang nghiêng người để đánh_quả bóng tennis endseq
+000000080215.jpg	startseq một nam vận_động_viên tennis đang nghiêng người để đánh bóng endseq
+000000080215.jpg	startseq hai người đàn_ông đang nghiêng người để đánh_quả bóng tennis endseq
+000000080215.jpg	startseq một nam vận_động_viên tennis đang vung_vợt để đánh bóng endseq
+000000080215.jpg	startseq hai nam vận_động_viên tennis đang nghiêng người để đánh bóng endseq
+000000559553.jpg	startseq hai bức ảnh của một trận thi_đấu bóng_đá nữ trên sân endseq
+000000559553.jpg	startseq các nữ cầu_thủ còn lại đang theo_dõi cú sút bóng của nữ cầu_thủ số endseq
+000000559553.jpg	startseq các nữ cầu_thủ bóng_đá đang thi_đấu trên sân endseq
+000000559553.jpg	startseq hai bức ảnh của một nữ cầu_thủ số đang nhảy lên để đá bóng endseq
+000000559553.jpg	startseq một nữ cầu_thủ bóng_đá đang nhảy lên để đá quả bóng endseq
+000000049429.jpg	startseq một cô bé đang cầm_vợt và quả bóng tennis cạnh bức tường endseq
+000000049429.jpg	startseq một đứa trẻ đang cầm cái vợt tennis đồ_chơi và quả bóng cạnh bức tường endseq
+000000049429.jpg	startseq một cậu bé đang cầm_vợt và quả bóng tennis cạnh bức tường endseq
+000000049429.jpg	startseq một đứa trẻ đang cầm_vợt và quả bóng tennis cạnh bức tường endseq
+000000049429.jpg	startseq một đứa trẻ đang cầm quả bóng bằng tay_phải và cái vợt bằng tay_trái endseq
+000000515075.jpg	startseq các cầu_thủ bóng_đá của hai đội đang thi_đấu trên sân endseq
+000000515075.jpg	startseq một cầu_thủ bóng_đá đang chuẩn_bị sút bóng trên sân endseq
+000000515075.jpg	startseq trận đấu bóng_đá đang diễn ra vơi cầu_thủ chuẩn_bị đá phạt_góc endseq
+000000515075.jpg	startseq hình_ảnh trận bóng_đá đang diễn ra trước đông_đảo khán_giả endseq
+000000515075.jpg	startseq hình_ảnh một cầu_thủ thực_hiện phạt góc trong trận bóng_đá endseq
+000000502916.jpg	startseq người phụ_nữ đang nhảy lên vung vợt tennis đánh trả bóng endseq
+000000502916.jpg	startseq người phụ_nữ đang cầm vợt tennis nhảy lên đánh bóng endseq
+000000502916.jpg	startseq người phụ_nữ áo đỏ đang cầm vợt đánh tennis trên sân endseq
+000000502916.jpg	startseq hai hình_ảnh giống nhau của người phụ_nữ đang đánh tennis endseq
+000000502916.jpg	startseq hình_ảnh kép của người phụ_nữ đang đánh tennis trên sân endseq
+000000442518.jpg	startseq một cầu_thủ bắt bóng đang giữ quả bóng trong găng_tay endseq
+000000442518.jpg	startseq một cầu_thủ bắt bóng đang ngồi trên sân bóng chày endseq
+000000442518.jpg	startseq một người đàn_ông giữ quả bóng trong cái găng_tay endseq
+000000442518.jpg	startseq một người đàn_ông đang ngồi và giữ quả bóng trong găng_tay endseq
+000000442518.jpg	startseq một cầu_thủ bắt bóng đang ngồi và giữ quả bóng trong găng_tay endseq
+000000014876.jpg	startseq một cậu bé đang nghiêng người để đánh_quả bóng chày endseq
+000000014876.jpg	startseq một cậu bé đang chơi bóng_chày trong vườn vào ban_ngày endseq
+000000014876.jpg	startseq một cậu bé đang vung gậy bóng_chày để đánh bóng trong vườn endseq
+000000014876.jpg	startseq một cậu bé đang chơi bóng_chày trong công_viên vào ban_ngày endseq
+000000014876.jpg	startseq một cậu bé đang vung gậy bóng_chày để đánh bóng trong công_viên endseq
+000000085876.jpg	startseq một cậu bé đang đứng cầm vợt tennis bằng tay_trái trên sân endseq
+000000085876.jpg	startseq một cậu bé đang giơ vợt lên cao trên sân tennis endseq
+000000085876.jpg	startseq một cậu bé đang đứng vung_vợt trên sân tennis endseq
+000000085876.jpg	startseq một cậu bé đang đưa vợt ra sau để chuẩn_bị đánh bóng endseq
+000000085876.jpg	startseq một cậu bé đang luyện_tập tennis trên sân endseq
+000000276062.jpg	startseq những người đàn_ông đang thi_đấu bóng_đá trên sân trước đông_đảo khán_giả endseq
+000000276062.jpg	startseq các cầu_thủ bóng_đá đang thi_đấu trên sân trước đông_đảo khán_giả endseq
+000000276062.jpg	startseq các cầu_thủ bóng_đá của hai đội đang thi_đấu trên sân endseq
+000000276062.jpg	startseq hai đội bóng đang đứng trên sân_bóng chờ_đợi trong trận endseq
+000000276062.jpg	startseq hình_ảnh trận bóng_đá đang diễn ra trước đông_đảo khán_giả endseq
+000000363257.jpg	startseq vận_động_viên tennis đang thi_đấu trên sân với đám đông đang quan_sát endseq
+000000363257.jpg	startseq vận_động_viên tennis đang giao_bóng trước đông_đảo khán_giả endseq
+000000363257.jpg	startseq vận_động_viên tennis nam đang đứng trên sân giao_bóng endseq
+000000363257.jpg	startseq người đàn_ông mặc áo xanh_dương đang chơi tennis trên sân endseq
+000000363257.jpg	startseq vận_động_viên tennis nam đang cầm vợt giao_bóng endseq
+000000052208.jpg	startseq hai người phụ_nữ đang luyện_tập tennis trên sân endseq
+000000052208.jpg	startseq hai hình_ảnh của những người phụ_nữ đang chơi tennis endseq
+000000052208.jpg	startseq một người phụ_nữ đang dùng vợt để đỡ quả bóng tennis endseq
+000000052208.jpg	startseq một người phụ_nữ đang theo_dõi cú đánh_bóng của người phụ_nữ khác endseq
+000000052208.jpg	startseq một người phụ_nữ đang chơi tennis trên sân endseq
+000000338018.jpg	startseq vận_động_viên tennis đang đứng trên sân cầm vợt đỡ bóng endseq
+000000338018.jpg	startseq người đàn_ông áo trắng đang vung vợt tennis về phía bóng endseq
+000000338018.jpg	startseq vận_động_viên tennis nam đang cầm_vợt chuẩn_bị đánh bóng endseq
+000000338018.jpg	startseq hình_ảnh kép của người đàn_ông đang chơi tennis trên sân endseq
+000000338018.jpg	startseq hai hình_ảnh giống nhau của vận_động_viên tennis đang thi_đấu endseq
+000000447484.jpg	startseq một nam vận_động_viên tennis đang ngửa người để phát_bóng endseq
+000000447484.jpg	startseq một người đàn_ông đang quan_sát để phát_bóng trên sân tennis endseq
+000000447484.jpg	startseq một người đàn_ông đang chuẩn_bị đánh_quả bóng tennis endseq
+000000447484.jpg	startseq một người đàn_ông đang ngửa người để phát_bóng trên sân tennis endseq
+000000447484.jpg	startseq một nam vận_động_viên tennis đang chuẩn_bị đánh bóng endseq
+000000129437.jpg	startseq các cầu_thủ bóng chày đang luyện_tập trên sân endseq
+000000129437.jpg	startseq trọng_tài đang theo_dõi động_tác của cầu_thủ bắt bóng và cầu_thủ đánh bóng endseq
+000000129437.jpg	startseq cầu_thủ đánh bóng đang giơ gậy lên để chuẩn_bị đánh bóng endseq
+000000129437.jpg	startseq cầu_thủ bắt bóng cầu_thủ đánh bóng và trọng_tài đang tập_trung gôn endseq
+000000129437.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000158451.jpg	startseq những người đàn_ông đang luyện_tập bóng_chày trong công_viên endseq
+000000158451.jpg	startseq những người đàn_ông khác đang theo_dõi cú ném bóng của người đàn_ông áo đen endseq
+000000158451.jpg	startseq một người đàn_ông đang chuẩn_bị ném quả bóng_chày trong tay endseq
+000000158451.jpg	startseq một người đàn_ông đang giơ gậy lên cao để chuẩn_bị đánh bóng endseq
+000000158451.jpg	startseq những người đàn_ông đang chơi bóng_chày trong công_viên endseq
+000000562596.jpg	startseq một người đàn_ông đang dùng vợt để đánh_quả bóng tennis endseq
+000000562596.jpg	startseq một người đàn_ông đang vươn người để đánh_quả bóng tennis endseq
+000000562596.jpg	startseq một người đàn_ông đang nhảy lên để đánh_quả bóng tennis endseq
+000000562596.jpg	startseq hai người đàn_ông đang luyện_tập tennis trên sân endseq
+000000562596.jpg	startseq một người đàn_ông đang vung_vợt để đánh_quả bóng tennis endseq
+000000288943.jpg	startseq vận_động_viên tennis đang cầm vợt thi_đấu trên sân endseq
+000000288943.jpg	startseq vận_động_viên tennis nam đang vung vợt tennis đánh trả bóng endseq
+000000288943.jpg	startseq hai hình_ảnh giống nhau của người đàn_ông áo tím đang chơi tennis trên sân endseq
+000000288943.jpg	startseq vận_động_viên tennis nam đang vung vợt đỡ bóng thấp endseq
+000000288943.jpg	startseq vận_động_viên tennis nam đang vung vợt đỡ bóng endseq
+000000198054.jpg	startseq vận_động_viên tennis nam đang cầm vợt đứng ngoài biên_đánh bóng endseq
+000000198054.jpg	startseq vận_động_viên tennis nam đang vung_vợt đánh bóng endseq
+000000198054.jpg	startseq vận_động_viên tennis nam đang càm vợt đỡ bóng endseq
+000000198054.jpg	startseq vận_động_viên tennis đang cầm vợt thi_đấu trên sân endseq
+000000198054.jpg	startseq người đàn_ông áo vàng đang chơi tennis trên sân endseq
+000000318310.jpg	startseq người phụ_nữ đang vung vợt tennis về phía bóng endseq
+000000318310.jpg	startseq người phụ_nữ đang cố đánh bóng tennis qua lưới endseq
+000000318310.jpg	startseq người phụ_nữ áo trắng đang chơi tennis trên sân endseq
+000000318310.jpg	startseq người phụ_nữ đang đưa vợt tennis lên cao đánh bóng endseq
+000000318310.jpg	startseq người phụ_nữ đang đỡ bóng tennis bằng vợt endseq
+000000281214.jpg	startseq hình_ảnh kép của người đàn_ông đang chơi tennis trên sân endseq
+000000281214.jpg	startseq người đàn_ông đang vung vợt tennis đánh trả bóng endseq
+000000281214.jpg	startseq hai hình_ảnh giống nhau của người đàn_ông áo xanh_dương đang cầm vợt đánh tennis endseq
+000000281214.jpg	startseq người đàn_ông đang cầm vợt tennis đứng ngoài biên_đỡ bóng endseq
+000000281214.jpg	startseq người đàn_ông mặc áo xanh_dương đang vung_vợt đánh trả bóng endseq
+000000208006.jpg	startseq người phụ_nữ đang cầm vợt đánh tennis trên sân endseq
+000000208006.jpg	startseq người phụ_nữ mặc áo đen đang chơi tennis trên sân endseq
+000000208006.jpg	startseq người phụ_nữ đang vung vợt tennis đánh bóng endseq
+000000208006.jpg	startseq người phụ_nữ mặc áo đen đang cầm vợt tennis thi_đấu trên sân endseq
+000000208006.jpg	startseq vận_động_viên tennis nữ đang cầm vợt thi_đấu trên sân endseq
+000000351855.jpg	startseq vận_động_viên tennis nam đang cầm vợt thi_đấu trên sân endseq
+000000351855.jpg	startseq vận_động_viên tennis đang cầm_vợt chạy theo bóng endseq
+000000351855.jpg	startseq vận_động_viên tennis đang cầm_vợt với đánh bóng endseq
+000000351855.jpg	startseq người đàn_ông áo trắng đang chơi tennis trên sân endseq
+000000351855.jpg	startseq vận_động_viên tennis đang vơi vợt tới đỡ bóng endseq
+000000165820.jpg	startseq một người đàn_ông đang cầm găng_tay và nhảy lên trên sân bóng chày endseq
+000000165820.jpg	startseq một cầu_thủ bắt bóng_dang nhảy lên trên sân endseq
+000000165820.jpg	startseq một cầu_thủ bóng chày đang nhảy lên trên sân endseq
+000000165820.jpg	startseq một cầu_thủ ném bóng dang nhảy lên trên sân endseq
+000000165820.jpg	startseq một người đàn_ông đang nhảy lên trên sân bóng chày endseq
+000000049120.jpg	startseq hai hình_ảnh giống nhau của một người đàn_ông đang chơi tennis endseq
+000000049120.jpg	startseq hai hình_ảnh của một vận_động_viên tennis đang thi_đấu endseq
+000000049120.jpg	startseq một vận_động_viên tennis đang thi_đấu trên sân endseq
+000000049120.jpg	startseq một vận_động_viên tennis đang nhảy lên để đánh bóng endseq
+000000049120.jpg	startseq hai vận_động_viên tennis đang nhảy lên để đánh bóng endseq
+000000455565.jpg	startseq một người đàn_ông đang cầm vợt tennis và đứng trên sân endseq
+000000455565.jpg	startseq một người đàn_ông đang cầm vợt tennis và thả quả bóng xuống sân endseq
+000000455565.jpg	startseq một nam vận_động_viên tennis đang cầm_vợt và thả quả bóng xuống sân endseq
+000000455565.jpg	startseq một nam vận_động_viên tennis đang cầm_vợt và đứng trên sân endseq
+000000455565.jpg	startseq khán_giả đang theo_dõi một trận thi_đấu tennis nam trên sân endseq
+000000529137.jpg	startseq một cầu_thủ bóng chày đang trong tư_thế ném bóng endseq
+000000529137.jpg	startseq một cầu_thủ bóng chày đang thực_hiện cú ném bóng trong trận endseq
+000000529137.jpg	startseq người đàn_ông đang chươi bóng chày trên sân endseq
+000000529137.jpg	startseq cầu_thủ bóng chày đang bước dài tới ném bóng endseq
+000000529137.jpg	startseq trận bóng_chày đang diễn ra với một cầu_thủ đang ném bóng endseq
+000000164462.jpg	startseq một trận thi_đấu tennis đôi nữ đang diễn ra trên sân endseq
+000000164462.jpg	startseq người phụ_nữ áo trắng đang theo_dõi chuyển_động của người phụ_nữ áo xanh endseq
+000000164462.jpg	startseq nữ vận_động_viên áo xanh đang nghiêng người để đỡ quả bóng tennis trong khi nữ vận_động_viên áo trắng đang quan_sát endseq
+000000164462.jpg	startseq người phụ_nữ áo xanh đang nghiêng người để đánh_quả bóng tennis endseq
+000000164462.jpg	startseq những người phụ_nữ đang chơi tennis trên sân endseq
+000000138977.jpg	startseq những người khác đang theo_dõi cú đánh_bóng của cậu bé áo xanh endseq
+000000138977.jpg	startseq một cầu_thủ đánh bóng nhí đang vung_gậy để đánh bóng endseq
+000000138977.jpg	startseq một cậu bé đang vung_gậy để đánh_quả bóng chày endseq
+000000138977.jpg	startseq một cầu_thủ đánh bóng nhí đang xoay người để đánh bóng endseq
+000000138977.jpg	startseq một cậu bé đang xoay người để đánh_quả bóng chày endseq
+000000398696.jpg	startseq khán_giả đang theo_dõi một trận thi_đấu tennis nam trên sân endseq
+000000398696.jpg	startseq một người đàn_ông đang cầm vợt tennis và đứng trên sân endseq
+000000398696.jpg	startseq một nam vận_động_viên tennis đang cầm_vợt và đứng trên sân endseq
+000000398696.jpg	startseq một nam vận_động_viên tennis đang chạm cái vợt vào quả bóng endseq
+000000398696.jpg	startseq một người đàn_ông đang chạm cái vợt tennis vào quả bóng endseq
+000000539270.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000539270.jpg	startseq một_số người đàn_ông đang chơi bóng_chày trên sân endseq
+000000539270.jpg	startseq một cầu_thủ bóng chày vừa thực_hiện cú ném bóng endseq
+000000539270.jpg	startseq một cầu_thủ bóng chày vừa tung cú ném bóng trong trận endseq
+000000539270.jpg	startseq một cầu_thủ bóng chày đang ném bóng về phía trước endseq
+000000425200.jpg	startseq một nữ vận_động_viên tennis đang dùng vợt để đánh bóng endseq
+000000425200.jpg	startseq một người phụ_nữ đang dùng vợt để đánh_quả bóng tennis endseq
+000000425200.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000425200.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị đánh bóng endseq
+000000425200.jpg	startseq một nữ vận_động_viên tennis đang xoay người để đánh bóng endseq
+000000572998.jpg	startseq một cầu_thủ đánh bóng đang xoay người để đánh bóng endseq
+000000572998.jpg	startseq một người đàn_ông đang vung_gậy để đánh_quả bóng chày endseq
+000000572998.jpg	startseq một cầu_thủ đánh bóng đang vung_gậy để đánh bóng endseq
+000000572998.jpg	startseq một người đàn_ông đang xoay người để đánh_quả bóng chày endseq
+000000572998.jpg	startseq cầu_thủ bắt bóng và trọng_tài đang theo_dõi cú đánh bóng của cầu_thủ đánh bóng endseq
+000000129510.jpg	startseq hai nam vận_động_viên tennis đang thi_đấu trên sân endseq
+000000129510.jpg	startseq một nam vận_động_viên tennis đang thủ_thế trong khi người còn lại đangvung_vợt để đánh bóng endseq
+000000129510.jpg	startseq một trận thi_đấu tennis đôi nam đang diễn ra trên sân endseq
+000000129510.jpg	startseq một nam vận_động_viên tennis đang vung_vợt để đánh_bóng trong khi người còn lại đang thủ_thế endseq
+000000129510.jpg	startseq hai hình_ảnh của một cặp nam vận_động_viên tennis đang thi_đấu trên sân endseq
+000000170227.jpg	startseq một người phụ_nữ đang quan_sát đường_bay của quả bóng tennis endseq
+000000170227.jpg	startseq một người phụ_nữ đang đứng trên sân tennis với cái vợt trong tay endseq
+000000170227.jpg	startseq một người phụ_nữ đang luyện_tập tennis trên sân endseq
+000000170227.jpg	startseq một người phụ_nữ đang cầm_vợt và đứng ngoài sân tennis endseq
+000000170227.jpg	startseq một người phụ_nữ đang cầm vợt tennis và đứng trên sân endseq
+000000443393.jpg	startseq hai bức ảnh của một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000443393.jpg	startseq một người phụ_nữ đang xoay người lên để đánh_quả bóng tennis endseq
+000000443393.jpg	startseq một người phụ_nữ đang giơ vợt lên để đánh_quả bóng tennis endseq
+000000443393.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000443393.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị đánh bóng endseq
+000000559306.jpg	startseq một người đàn_ông đang cầm gậy bóng_chày và đứng nghiêng người qua trái endseq
+000000559306.jpg	startseq khán_giả đang theo_dõi một trận thi_đấu bóng chày nam endseq
+000000559306.jpg	startseq một cầu_thủ đánh bóng đang cầm_gậy và đứng cạnh số endseq
+000000559306.jpg	startseq một cầu_thủ đánh bóng đang đứng nghiêng người qua trái endseq
+000000559306.jpg	startseq một người đàn_ông đang cầm gậy bóng_chày và đứng cạnh số endseq
+000000123558.jpg	startseq cầu_thủ áo xanh đang ngã vào chân của cầu_thủ áo trắng endseq
+000000123558.jpg	startseq cầu_thủ áo xanh đang ngồi tựa lưng vào chân của cầu_thủ áo trắng endseq
+000000123558.jpg	startseq những người đàn_ông đang chơi bóng_đá trên sân endseq
+000000123558.jpg	startseq các cầu_thủ bóng_đá đang thi_đấu trên sân endseq
+000000123558.jpg	startseq cầu_thủ áo xanh đang tranh_chấp bóng với cầu_thủ áo trắng endseq
+000000307475.jpg	startseq cầu_thủ bóng chày đang cầm gậy đánh bóng endseq
+000000307475.jpg	startseq cầu_thủ bắt bóng đang đưa tay về phía trước bắt bóng endseq
+000000307475.jpg	startseq cầu_thủ đánh bóng đang cầm gậy đỡ bóng endseq
+000000307475.jpg	startseq hình_ảnh của những người đàn_ông đang chơi bóng_chày với số trên hình endseq
+000000307475.jpg	startseq người đàn_ông mặc đồ trắng đang cầm gậy bóng chày endseq
+000000534440.jpg	startseq hai hình_ảnh giống nhau người phụ_nữ đang chơi tennis trên sân endseq
+000000534440.jpg	startseq người phụ_nữ vung vợt tennis đánh trả bóng endseq
+000000534440.jpg	startseq hình_ảnh kép người phụ_nữ đang đánh tennis trên sân endseq
+000000534440.jpg	startseq người phụ_nữ đang vung vợt tennis đánh bóng endseq
+000000534440.jpg	startseq người phụ_nữ đứng trên sân đỡ bóng tennis bằng vợt tennis endseq
+000000379944.jpg	startseq cầu_thủ đánh bóng đàng cầm gậy đỡ bóng trên sân endseq
+000000379944.jpg	startseq cầu_thủ bóng chày đang vung_gậy đánh bóng endseq
+000000379944.jpg	startseq người đàn_ông đang chơi bóng_chày trên sân cỏ endseq
+000000379944.jpg	startseq cầu_thủ bóng chày đang cầm gậy thi_đấu trên sân endseq
+000000379944.jpg	startseq cầu_thủ bóng chày đang cầm gậy đứng trên sân đánh bóng endseq
+000000524819.jpg	startseq người đàn_ông áo trắng đang chơi tennis trên sân endseq
+000000524819.jpg	startseq người đàn_ông đang cầm vợt tennis chuẩn_bị đỡ bóng thấp endseq
+000000524819.jpg	startseq người đàn_ông đang vung vợt tennis đánh trả bóng endseq
+000000524819.jpg	startseq người đàn_ông áo trắng đang cầm vợt đánh tennis trên sân endseq
+000000524819.jpg	startseq người đàn_ông đang vung vợt tennis đỡ bóng trong trận endseq
+000000052943.jpg	startseq những người đàn_ông đang chơi bóng_đá trên sân endseq
+000000052943.jpg	startseq các cầu_thủ bóng_đá đang chạy trên sân cỏ endseq
+000000052943.jpg	startseq các cầu_thủ bóng_đá đang khởi_động trước trận đấu endseq
+000000052943.jpg	startseq một trận thi_đấu bóng_đá nam đnag diễn ra trên sân endseq
+000000052943.jpg	startseq một cầu_thủ đang dắt bóng trước các cầu_thủ khác endseq
+000000151927.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị đánh bóng endseq
+000000151927.jpg	startseq một nữ vận_động_viên tennis đang ngửa người để đánh bóng endseq
+000000151927.jpg	startseq một người phụ_nữ đang ngửa mặt lên để nhìn quả bóng tennis endseq
+000000151927.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000151927.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị phát_bóng endseq
+000000476341.jpg	startseq hai đứa trẻ đang thi_đấu bóng chày ngoài sân endseq
+000000476341.jpg	startseq cầu_thủ bóng chày trẻ đang ném vậy xuống đất endseq
+000000476341.jpg	startseq cầu_thủ bóng chày trẻ đứng trên san_thả gậy xuống sân endseq
+000000476341.jpg	startseq một đứa trẻ đang ném gậy bóng chày và một đứa trẻ đang ném bóng endseq
+000000476341.jpg	startseq hình_ảnh traajn bóng chày đang diễn ra ngoài sân cỏ endseq
+000000052843.jpg	startseq một nữ vận_động_viên tennis đang vung_vợt để đánh bóng endseq
+000000052843.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000052843.jpg	startseq một nữ vận_động_viên tennis đang khuỵu_gối để đánh bóng endseq
+000000052843.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị đánh bóng endseq
+000000052843.jpg	startseq một người phụ_nữ đang vung_vợt để đánh_quả bóng tennis endseq
+000000030712.jpg	startseq hai người bạn đang chụp ảnh sau khi chơi tennis endseq
+000000030712.jpg	startseq hai cậu bé đang cầm_vợt và đứng trên sân endseq
+000000030712.jpg	startseq hai người bạn đang chụp ảnh cùng vợt của mình trên sân endseq
+000000030712.jpg	startseq hai cậu bé đang cầm vợt bằng tay_trái và giơ tay_phải lên cao endseq
+000000030712.jpg	startseq hai cậu bé đang chụp ảnh sau khi chơi tennis endseq
+000000104075.jpg	startseq một nữ vận_động_viên tennis đang vung_vợt để đánh bóng endseq
+000000104075.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000104075.jpg	startseq một người phụ_nữ đang vung_vợt để đánh_quả bóng tennis endseq
+000000104075.jpg	startseq hai hình_ảnh của một nữ vận_động_viên tennis đang chuẩn_bị đánh bóng endseq
+000000104075.jpg	startseq hai hình_ảnh của một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000476045.jpg	startseq cầu_thủ bóng chày đang cầm gậy đứng trên sân chuẩn_bị đỡ bóng endseq
+000000476045.jpg	startseq các cầu_thủ bóng chày đang thi_đấu trên sân endseq
+000000476045.jpg	startseq hình_ảnh trận bóng_chày đang diễn ra endseq
+000000476045.jpg	startseq cầu_thủ bóng chày đang đứng trên sân_nhà vung gậy đỡ bóng endseq
+000000476045.jpg	startseq cầu_thủ bóng chày áo_số đang cầm gậy thi_đấu trên sân endseq
+000000138265.jpg	startseq hai hình_ảnh của một người phụ_nữ đang chơi tennis endseq
+000000138265.jpg	startseq hai hình_ảnh của một người phụ_nữ đang xoay người để đánh_quả bóng tennis endseq
+000000138265.jpg	startseq một người phụ_nữ đang xoay người để đánh_quả bóng tennis endseq
+000000138265.jpg	startseq hai hình_ảnh của một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000138265.jpg	startseq một người phụ_nữ đang dùng vợt để đánh_quả bóng tennis endseq
+000000246412.jpg	startseq cầu_thủ đánh bóng cầm_gậy chuẩn_bị đỡ bóng và cầu_thủ bắt bóng đang ngồi sẵn_sàng bắt bóng endseq
+000000246412.jpg	startseq cầu_thủ đánh bóng sẵn_sàng vung_vợt đánh trả bóng trong trận đấu endseq
+000000246412.jpg	startseq cầu_thủ bóng chày đang cầm_vợt sẵn_sàng đánh trả bóng trên sân_nhà endseq
+000000246412.jpg	startseq hình_ảnh sân_nhà của trận bóng_chày đang diễn ra endseq
+000000246412.jpg	startseq cầu_thủ đánh bóng đang đứng trước cầu_thủ bắt bóng sẵn_sàng đỡ bóng endseq
+000000205367.jpg	startseq hai vận_động_viên tennis nữ đang cầm vợt thi_đấu trên sân endseq
+000000205367.jpg	startseq hai hình_ảnh giống nhau của đội tennis nữ đang thi_đấu trên sân endseq
+000000205367.jpg	startseq hai người phụ_nữ đang cầm vợt tennis đánh đôi trước đám đông quan_sát endseq
+000000205367.jpg	startseq hình_ảnh kép của hai người phụ_nữ đang chơi tennis trên sân endseq
+000000205367.jpg	startseq hai người phụ_nữ đang thi_đấu tennis cùng đội trên sân endseq
+000000562124.jpg	startseq nữ vận_động_viên tennis áo tím đang nhảy lên để đánh bóng endseq
+000000562124.jpg	startseq một người phụ_nữ đang nhảy lên để đánh_quả bóng tennis endseq
+000000562124.jpg	startseq nữ vận_động_viên tennis áo trắng đang quan_sát cú đánh_bóng của nữ vận_động_viên áo tím endseq
+000000562124.jpg	startseq một người phụ_nữ đang vung_vợt để đánh_quả bóng tennis endseq
+000000562124.jpg	startseq một người phụ_nữ đang vươn người để đánh_quả bóng tennis endseq
+000000118272.jpg	startseq một người phụ_nữ đang chuẩn_bị dùng vợt để đánh_quả bóng tennis endseq
+000000118272.jpg	startseq một người phụ_nữ đang chuẩn_bị khuỵu gối để đỡ quả bóng tennis endseq
+000000118272.jpg	startseq một người phụ_nữ đang chuẩn_bị dùng vợt để đỡ quả bóng tennis endseq
+000000118272.jpg	startseq một người phụ_nữ đang chuẩn_bị khuỵu_gối để đánh_quả bóng tennis endseq
+000000118272.jpg	startseq một người phụ_nữ đang bước tới trước để đánh_quả bóng tennis endseq
+000000086549.jpg	startseq một cầu_thủ bóng chày đang giơ gậy lên cao để đánh bóng endseq
+000000086549.jpg	startseq một cầu_thủ đánh bóng đang chuẩn_bị đánh bóng endseq
+000000086549.jpg	startseq một người đàn_ông đang xoay người để đánh_quả bóng chày endseq
+000000086549.jpg	startseq một cầu_thủ ném bóng đang theo_dõi cú đánh bóng của cầu_thủ đánh bóng endseq
+000000086549.jpg	startseq một người đàn_ông đang giơ gậy lên cao để chuẩn_bị đánh bóng endseq
+000000212741.jpg	startseq người đàn_ông áo trắng đang chơi tennis trên sân endseq
+000000212741.jpg	startseq vận_động_viên tennis nam đang cầm vợt đứng trên sân endseq
+000000212741.jpg	startseq vận_động_viên tennis đang đứng ngoài biên_nhồi bóng endseq
+000000212741.jpg	startseq vận_động_viên tennis đang cầm vợt nhồi bóng bằng tay endseq
+000000212741.jpg	startseq vận_động_viên tennis đang cầm_vợt chuẩn_bị giao_bóng endseq
+000000120241.jpg	startseq những cậu bé đang chơi bóng_đá trên sân endseq
+000000120241.jpg	startseq cậu bé áo trắng đang nghiêng người trên sân endseq
+000000120241.jpg	startseq phụ_huynh đang theo_dõi buổi tập_luyện bóng_đá của con mình endseq
+000000120241.jpg	startseq những cậu bé đang luyện_tập bóng_đá trên sân endseq
+000000120241.jpg	startseq huấn_luyện_viên đang theo_dõi buổi tập_luyện bóng_đá của học_trò endseq
+000000043163.jpg	startseq một người đàn_ông đang bước qua phải để đánh_quả bóng tennis endseq
+000000043163.jpg	startseq hai bức ảnh giống nhau của một vận_động_viên tennis endseq
+000000043163.jpg	startseq hai người đàn_ông đang bước qua phải để đỡ quả bóng tennis endseq
+000000043163.jpg	startseq hai nam vận_động_viên tennis đang bước qua phải để đỡ bóng endseq
+000000043163.jpg	startseq hai bức ảnh của một người đàn_ông đang cố_gắng để cứu quả bóng tennis endseq
+000000349614.jpg	startseq cầu_thủ áo vàng và cầu_thủ áo đỏ đang chạy theo bóng trên sân endseq
+000000349614.jpg	startseq hai người đàn ồng đang tranh_bóng trên sân cỏ endseq
+000000349614.jpg	startseq hai cầu_thủ bóng_đá đang tranh_giành bóng trên sân endseq
+000000349614.jpg	startseq hai hình_ảnh giống nhau của một nhóm người đan đá bóng trên sân endseq
+000000349614.jpg	startseq hình_ảnh kép của một_số người đang chơi bóng_đá trên sân endseq
+000000307990.jpg	startseq người đàn_ông đeo kính đen đang chơi tennis trên sân endseq
+000000307990.jpg	startseq thanh_niên đeo kính đen đang đỡ bóng tennis endseq
+000000307990.jpg	startseq người đàn_ông mặc áo trắng đang chuẩn_bị đánh bóng endseq
+000000307990.jpg	startseq thanh_niên áo trắng đang cầm vợt tennis đánh bóng endseq
+000000307990.jpg	startseq thanh_niên trẻ đang đỡ bóng tennis bằng vợt endseq
+000000140690.jpg	startseq nam vận_động_viên áo đỏ đang đứng khuỵu chân trên sân tennis endseq
+000000140690.jpg	startseq nam vận_động_viên áo trắng đang chạy trên sân tennis endseq
+000000140690.jpg	startseq một trận thi_đấu tennis nam đang diễn ra trên sân endseq
+000000140690.jpg	startseq quang_cảnh một trận thi_đấu tennis nam được chụp từ trên cao endseq
+000000140690.jpg	startseq khán_giả đang theo_dõi một trận thi_đấu tennis nam trên sân endseq
+000000094155.jpg	startseq cầu_thủ bắt bóng đang đứng cạnh cầu_thủ chạy gôn trên sân endseq
+000000094155.jpg	startseq hai người đàn_ông đang chơi bóng_chày trên sân endseq
+000000094155.jpg	startseq cầu_thủ chạy gôn đang nằm cạnh gôn trên sân bóng chày endseq
+000000094155.jpg	startseq một cầu_thủ bóng chày đang nằm trên sân trong khi một cầu_thủ khác đang đứng endseq
+000000094155.jpg	startseq một trận thi_đấu bóng chày đang diễn ra trên sân endseq
+000000316914.jpg	startseq cầu_thủ ném bóng vừa thực_hiện cú phát bóng endseq
+000000316914.jpg	startseq cầu_thủ đánh bóng đang đưa gậy về phía sau quan_sát bóng endseq
+000000316914.jpg	startseq cầu_thủ ném bóng đang ném bóng về phía cầu_thủ bắt bóng endseq
+000000316914.jpg	startseq trọng_tài áo tím đang quan_sát trận bóng chày diễn ra endseq
+000000316914.jpg	startseq một nhóm người đang chơi bóng_chày trên sân endseq
+000000243153.jpg	startseq hai vận_động_viên tennis nữ đang cầm vợt tennis đánh đôi trên sân endseq
+000000243153.jpg	startseq hai hình_ảnh giống nhau của hai người phụ_nữ đang đánh tennis trên sân endseq
+000000243153.jpg	startseq hình_ảnh kép của hai người phụ_nữ đang chơi tennis trên sân endseq
+000000243153.jpg	startseq hai vận_động_viên tennis nữ đang cùng nhau đánh tennis trên sân endseq
+000000243153.jpg	startseq hai vận_động_viên tennis nữ đang thi_đấu cùng đội trên sân endseq
+000000123731.jpg	startseq một nữ vận_động_viên tennis đang nhảy lên để đánh bóng endseq
+000000123731.jpg	startseq một người phụ_nữ đang dùng vợt để đánh_quả bóng tennis endseq
+000000123731.jpg	startseq một người phụ_nữ đang nhảy lên để đánh_quả bóng tennis endseq
+000000123731.jpg	startseq hai hình_ảnh của một người phụ_nữ đang nhảy lên để đánh_quả bóng tennis endseq
+000000123731.jpg	startseq hai hình_ảnh của một người phụ_nữ đang dùng vợt để đánh_quả bóng tennis endseq
+000000136240.jpg	startseq cầu_thủ bắt bóng và trọng_tài đang theo_dõi động_tác của cầu_thủ đánh bóng endseq
+000000136240.jpg	startseq cầu_thủ đánh bóng đang xoay người để đánh bóng endseq
+000000136240.jpg	startseq cầu_thủ đánh bóng đang vung_gậy để đánh bóng endseq
+000000136240.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000136240.jpg	startseq các cầu_thủ bóng chày đang thi_đấu trên sân endseq
+000000209844.jpg	startseq hai vận_động_viên tennis đang thi_đấu cùng đội trên sân endseq
+000000209844.jpg	startseq hai hình_ảnh giống nhau của hai vận_động_viên tennis đang thi_đấu trên sân endseq
+000000209844.jpg	startseq hình_ảnh kép của hai người đàn_ông đang chơi tennis trên sân endseq
+000000209844.jpg	startseq hai vận_động_viên tennis đang cầm vợt thi_đấu trên sân endseq
+000000209844.jpg	startseq hai vận_động_viên tennis đang cầm vợt đánh tennis trong trận endseq
+000000014864.jpg	startseq một người phụ_nữ đang vung_vợt để đánh_quả bóng tennis endseq
+000000014864.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000014864.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị đánh bóng endseq
+000000014864.jpg	startseq một nữ vận_động_viên tennis đang dùng vợt để đỡ bóng endseq
+000000014864.jpg	startseq hai bức ảnh của vận_động_viên tennis nữ đang dùng vợt để đỡ bóng endseq
+000000043856.jpg	startseq một cô bé đang luyên tập tennis trên sân endseq
+000000043856.jpg	startseq một cô bé đang theo_dõi diễn_biến của đối_thủ trên sân tennis endseq
+000000043856.jpg	startseq một cô bé đang cúi người và đứng trên sân tennis endseq
+000000043856.jpg	startseq một cô bé đang thủ_thế để chuẩn_bị đỡ bóng endseq
+000000043856.jpg	startseq một cô bé đang chơi tennis trên sân endseq
+000000417627.jpg	startseq một nam vận_động_viên đang khuỵu_gối trên sân endseq
+000000417627.jpg	startseq những người đàn_ông đang chơi tennis trên sân endseq
+000000417627.jpg	startseq một trận thi_đấu tennis đôi nam đang diễn ra trên sân endseq
+000000417627.jpg	startseq một nam vận_động_viên đang chuẩn_bị đánh bóng gần lưới endseq
+000000417627.jpg	startseq hai bức ảnh của một trận thi_đấu tennis đôi nam đang diễn ra trên sân endseq
+000000053101.jpg	startseq một nữ vận_động_viên tennis đang vung_vợt để đánh bóng endseq
+000000053101.jpg	startseq hai hình_ảnh của một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000053101.jpg	startseq một người phụ_nữ đang nghiêng người để đánh_quả bóng tennis endseq
+000000053101.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị đánh bóng endseq
+000000053101.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000429182.jpg	startseq các cầu_thủ khác đang theo_dõi cú bắt bóng của cầu_thủ bắt bóng endseq
+000000429182.jpg	startseq những người đàn_ông đang chơi bóng_chày ngoài_trời endseq
+000000429182.jpg	startseq một người đàn_ông với cái găng_tay đang nhảy lên để bắt quả bóng chày endseq
+000000429182.jpg	startseq một cầu_thủ bắt bóng đang nhảy lên trên gôn để bắt bóng endseq
+000000429182.jpg	startseq các cầu_thủ bóng chày đang thi_đấu ngoài_trời endseq
+000000357989.jpg	startseq một_số người đang chơi bóng_rổ ngoài sân endseq
+000000357989.jpg	startseq một nhóm người đàn_ông đang chơi bóng_rổ ngoài sân dưới trời nắng endseq
+000000357989.jpg	startseq một nhóm người đàn_ông đang chơi bóng_rổ dưới trời nắng endseq
+000000357989.jpg	startseq những người đàn_ông đang thi_đấu bóng_rổ dưới trời nắng endseq
+000000357989.jpg	startseq những người đàn_ông đang cùng nhau chơi bóng_rổ ngoài sân endseq
+000000335660.jpg	startseq hai vận_động_viên tennis nữ đang cầm vợt thi_đấu trên sân endseq
+000000335660.jpg	startseq hai hình_ảnh giống nhau của hai người phụ_nữ đang thi_đấu tennis cùng đội endseq
+000000335660.jpg	startseq hai ảnh kép của hai người phụ_nữ đang thi_đấu trên sân endseq
+000000335660.jpg	startseq vận_động_viên tennis nữ đang vung_vợt về phía bóng endseq
+000000335660.jpg	startseq vận_động_viên nữ phía sau đang cầm vợt tennis đánh bóng endseq
+000000401885.jpg	startseq một người phụ_nữ đang dùng vợt để đánh_quả bóng tennis endseq
+000000401885.jpg	startseq hai bức ảnh của một người phụ_nữ đang chơi tennis trên sân endseq
+000000401885.jpg	startseq một người phụ_nữ đang cúi người để đánh_quả bóng tennis endseq
+000000401885.jpg	startseq một người phụ_nữ đang bước tới trước để đánh_quả bóng tennis endseq
+000000401885.jpg	startseq hai bức ảnh của một nữ vận_động_viên tennis đang thi_đấu trên sân endseq
+000000216454.jpg	startseq hình_ảnh của hai đứa trẻ đang chơi bóng chày ngoài sân endseq
+000000216454.jpg	startseq đứa trẻ đang cầm gậy bóng_chày chuẩn_bị vung_gậy đánh bóng endseq
+000000216454.jpg	startseq một đứa trẻ đang ném bóng về phía đứa trẻ đang cầm gậy bóng chày endseq
+000000216454.jpg	startseq đứa trẻ đang cầm gậy bóng chày đứng trên đồng_cỏ chuẩn_bị đánh bóng endseq
+000000216454.jpg	startseq hai đứa trẻ đang cùng nhau chơi bóng chày ngoài đồng_cỏ endseq
+000000007615.jpg	startseq trên sân một cầu_thủ đánh bóng đang chuẩn_bị đánh bóng endseq
+000000007615.jpg	startseq trên sân một cầu_thủ đánh bóng đang luyện_tập endseq
+000000007615.jpg	startseq trên sân một cầu_thủ đánh bóng đang vung_gậy để đánh bóng endseq
+000000007615.jpg	startseq trên sân một người đàn_ông đang nghiêng người để chuẩn_bị đánh_quả bóng chày endseq
+000000007615.jpg	startseq một người đàn_ông đang vung_gậy để đánh_quả bóng chày endseq
+000000091558.jpg	startseq một người đàn_ông đang nhón chân để đỡ quả bóng tennis endseq
+000000091558.jpg	startseq một người đàn_ông đang chơi tennis trên sân endseq
+000000091558.jpg	startseq một người đàn_ông đang dùng vợt để đỡ quả bóng tennis endseq
+000000091558.jpg	startseq một nam vận_động_viên tennis đang dùng vợt để đỡ bóng endseq
+000000091558.jpg	startseq một nam vận_động_viên tennis đang nhón chân để đỡ bóng endseq
+000000243660.jpg	startseq trận đấu bóng chày đang diễn ra với cầu_thủ đánh bóng sẵn_sàng đỡ bóng endseq
+000000243660.jpg	startseq những cầu_thủ bóng chày đang thi_đấu trên sân endseq
+000000243660.jpg	startseq hình_ảnh của trận đấu bóng chày đang diễn ra với đông_đảo khán_giả quan_sát endseq
+000000243660.jpg	startseq hình_ảnh của các cầu_thủ bóng chày trên sân_nhà trong trận đấu endseq
+000000243660.jpg	startseq trận đấu bóng chày đang diễn ra với quả bóng chày bay về phía sân nhà endseq
+000000354575.jpg	startseq người đàn oông đang cầm vợt tennis đứng ngoài biên giao_bóng endseq
+000000354575.jpg	startseq người đàn_ông áo đỏ đang cầm vợt tennis chuẩn_bị giao_bóng endseq
+000000354575.jpg	startseq hình_ảnh kép của người đàn_ông áo đỏ đang chơi tennis trên sân endseq
+000000354575.jpg	startseq người đàn_ông đang cầm vợt tennis và bóng trên hai tay endseq
+000000354575.jpg	startseq hai hình_ảnh giống nhau của người đàn_ông áo đỏ đang cầm vợt tennis đứng trên sân endseq
+000000070687.jpg	startseq trọng_tài đang theo_dõi động_tác của các cầu_thủ bóng chày endseq
+000000070687.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000070687.jpg	startseq những người đàn_ông đang chơi bóng_chày trong công_viên endseq
+000000070687.jpg	startseq cầu_thủ đánh bóng đang giơ gậy lên cao để đánh bóng endseq
+000000070687.jpg	startseq cầu_thủ đánh bóng cầu_thủ ném bóng và trọng_tài đang đứng gôn endseq
+000000180818.jpg	startseq một cầu_thủ ném bóng đang xoay người để thực_hiện động_tác ném bóng endseq
+000000180818.jpg	startseq một người đàn_ông đang xoay người để ném quả bóng chày endseq
+000000180818.jpg	startseq một cầu_thủ ném bóng đang bước tới trước để ném quả bóng chày endseq
+000000180818.jpg	startseq một người đàn_ông đang thực_hiện động_tác ném bóng trên sân bóng chày endseq
+000000180818.jpg	startseq một cầu_thủ ném bóng đang thực_hiện động_tác ném bóng endseq
+000000094150.jpg	startseq một người đàn_ông đang xoay người để chuẩn_bị đánh_quả bóng tennis endseq
+000000094150.jpg	startseq một người đàn_ông đang luyện_tập tennis trên sân endseq
+000000094150.jpg	startseq một người đàn_ông đang vung_vợt để chuẩn_bị đánh_quả bóng tennis endseq
+000000094150.jpg	startseq một người đàn_ông đang dùng vợt để đánh_quả bóng tennis endseq
+000000094150.jpg	startseq một người đàn_ông đang chơi tennis trên sân endseq
+000000283999.jpg	startseq cầu_thủ đánh bóng đang cầm gậy bước tới đánh trả bóng endseq
+000000283999.jpg	startseq cầu_thủ đánh bóng đang đứng trước cầu_thủ bắt bóng cố_gắng đỡ bóng bằng gậy endseq
+000000283999.jpg	startseq hình_ảnh trắng_đen của trận đấu bóng chày đang diễn ra endseq
+000000283999.jpg	startseq cầu_thủ đánh bóng đang đứng trên sân_nhà đánh trả bóng endseq
+000000283999.jpg	startseq hình_ảnh trắng_đen của trận đấu bóng_chày với đông_đảo khán_giả quan_sát endseq
+000000423234.jpg	startseq một người đàn_ông áo xanh đang nằm trên sân và giữ quả bóng chày bằng găng_tay endseq
+000000423234.jpg	startseq một cầu_thủ bắt bóng đang nằm trên sân và giữ quả bóng trong găng_tay endseq
+000000423234.jpg	startseq một người đàn_ông áo đỏ đang chạy trên sân endseq
+000000423234.jpg	startseq những người đàn_ông đang chơi bóng_chày ngoài_trời endseq
+000000423234.jpg	startseq một cầu_thủ chạy gôn đang chạy trên sân endseq
+000000219335.jpg	startseq người thủ_môn nữ đang trong tư_thế chuẩn_bị chụp bóng endseq
+000000219335.jpg	startseq người phụ_nữ đang chơi bóng_đá vị_trí thủ_môn endseq
+000000219335.jpg	startseq hình_ảnh kép của thủ_môn nữ đang bảo_vệ cầu_môn trong trận bóng_đá endseq
+000000219335.jpg	startseq hai hình_ảnh giống nhau của người những người phụ_nữ đang chơi bóng_đá endseq
+000000219335.jpg	startseq hình_ảnh của thủ_môn nữ mặc áo đỏ đang chuẩn_bị bắt bóng endseq
+000000432884.jpg	startseq một người phụ_nữ đang giơ vợt lên cao để đánh_quả bóng tennis endseq
+000000432884.jpg	startseq một người phụ_nữ đang xoay người để đánh_quả bóng tennis endseq
+000000432884.jpg	startseq một nữ vận_động_viên tennis đang giơ vợt lên để đánh bóng endseq
+000000432884.jpg	startseq hai bức ảnh của một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000432884.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000473928.jpg	startseq trận bóng_chày đang diễn ra với một cầu_thủ đang ném bóng endseq
+000000473928.jpg	startseq trận bóng_chày đang diễn ra với cầu_thủ đánh bóng sẵn_sàng đỡ bóng trên sân_nhà endseq
+000000473928.jpg	startseq cầu_thủ bắt bóng cầm gậy sẵn_sàng đón bóng từ cầu_thủ ném bóng endseq
+000000473928.jpg	startseq hình_ảnh trận bóng_chày đang diễn ra endseq
+000000473928.jpg	startseq cầu_thủ ném bóng đang ném bóng về phía cầu_thủ bắt bóng endseq
+000000090238.jpg	startseq cô gái áo tím đang nghiêng người để đánh_quả bóng tennis endseq
+000000090238.jpg	startseq những người phụ_nữ đang luyện_tập tennis trên sân endseq
+000000090238.jpg	startseq những người phụ_nữ đang chơi tennis trên sân endseq
+000000090238.jpg	startseq những người phụ_nữ đang thi_đấu tennis trên sân endseq
+000000090238.jpg	startseq cô gái áo tím đang chuẩn_bị đánh_quả bóng tennis endseq
+000000500740.jpg	startseq một cầu_thủ bóng chày đang thi_đấu trong hình_ảnh quảng_cáo kẹo_cao_su endseq
+000000500740.jpg	startseq người đàn_ông áo trắng đang chơi bóng_chày trên sân endseq
+000000500740.jpg	startseq hình_ảnh quảng_cáo kẹo_cao_su có hai người phụ_nữ và một cầu_thủ bóng chày endseq
+000000500740.jpg	startseq cầu_thủ bóng chày đang vung_gậy đánh trả bóng trong hình quảng_cáo endseq
+000000500740.jpg	startseq hình_ảnh quảng_cáo kẹo_cao_su có cầu_thủ bóng chày đang thi_đấu endseq
+000000123038.jpg	startseq một người phụ_nữ đang xoay người để đánh_quả bóng tennis endseq
+000000123038.jpg	startseq hai hình_ảnh của một trận thi_đấu tennis đôi nam_nữ endseq
+000000123038.jpg	startseq người phụ_nữ đang vung_vợt để đánh_quả bóng tennis endseq
+000000123038.jpg	startseq ba người đang chơi tennis trên sân endseq
+000000123038.jpg	startseq một trận thi_đấu tennis đôi nam_nữ đang diễn ra trên sân endseq
+000000336532.jpg	startseq người đàn_ông mặc quần_trắng đang chơi bóng_chày trên sân endseq
+000000336532.jpg	startseq cầu_thủ đánh bóng đang cầm_gậy chuẩn_bị đỡ bóng endseq
+000000336532.jpg	startseq vận_động_viên bóng chày áo_số đang cầm_gậy chuẩn_bị đánh bóng endseq
+000000336532.jpg	startseq cầu_thủ đánh bóng đang vung gậy bóng chày về phía bóng endseq
+000000336532.jpg	startseq vận_động_viên bóng_chày đang cầm gậy thi_đấu trên sân endseq
+000000061358.jpg	startseq những người đàn_ông đang luyện_tập bóng chày trong khung lưới endseq
+000000061358.jpg	startseq cậu bé đang vung_gậy để đánh_quả bóng chày trước tấm lưới endseq
+000000061358.jpg	startseq cậu bé đang vung_gậy để đánh_quả bóng_chày trên sân endseq
+000000061358.jpg	startseq những người đàn_ông đang chơi bóng_chày trong khung lưới endseq
+000000061358.jpg	startseq một cầu_thủ bóng chày đang dùng gậy để đánh bóng trước tâm lưới endseq
+000000103401.jpg	startseq một cầu_thủ ném bóng đang chuẩn_bị ném quả bóng_chày trong tay endseq
+000000103401.jpg	startseq một người đàn_ông đang chuẩn_bị ném quả bóng_chày trong tay endseq
+000000103401.jpg	startseq một trận thi_đấu bóng chày nam đang diễn ra trên sân endseq
+000000103401.jpg	startseq một người đàn_ông đang xoay người để ném quả bóng_chày trong tay endseq
+000000103401.jpg	startseq một cầu_thủ ném bóng đang xoay người để ném quả bóng_chày trong tay endseq
+000000335013.jpg	startseq một bé gái đang cầm quả bóng đỏ quan_sát hai đứa trẻ chơi điện_tử endseq
+000000335013.jpg	startseq bé gái đứng cạnh ghế sofa tay đang cầm bóng endseq
+000000335013.jpg	startseq cô bé tay cầm quả bóng đang đứng cạnh người đàn_ông endseq
+000000335013.jpg	startseq một_số người đang chơi điện_tử trong phòng khách endseq
+000000335013.jpg	startseq cô bé tay cầm quả bóng đang quan_sát hai đứa trẻ chơi game endseq
+000000011015.jpg	startseq hình_ảnh một trận thi_đấu bóng_đá đang diễn ra endseq
+000000011015.jpg	startseq một cầu_thủ đang ôm quả bóng trên tay endseq
+000000011015.jpg	startseq các cầu_thủ bóng_đá đang đứng gần nhau trên sân endseq
+000000011015.jpg	startseq một cầu_thủ đang ôm quả bóng để chuẩn_bị phạt góc endseq
+000000011015.jpg	startseq một trận thi_đấu bóng_đá đang diễn ra trên sân endseq
+000000052957.jpg	startseq một cậu bé đang giơ gậy bóng chày lên cao sau cái lưới endseq
+000000052957.jpg	startseq một cậu bé đang cầm cây gậy trong căn phòng endseq
+000000052957.jpg	startseq một cậu bé đang luyện_tập bóng_chày sau cái lưới endseq
+000000052957.jpg	startseq một cậu bé đang chơi bóng_chày sau cái lưới endseq
+000000052957.jpg	startseq một cậu bé đang chuẩn_bị đánh_quả bóng chày endseq
+000000549496.jpg	startseq một con voi ném bóng_rổ tại một buổi biểu_diễn endseq
+000000549496.jpg	startseq voi nhúng bóng_rổ qua một cái vòng trong sân_vận_động trong nhà endseq
+000000549496.jpg	startseq một con voi đang đặt một quả bóng_rổ qua một cái vòng endseq
+000000549496.jpg	startseq một con voi đặt một quả bóng_rổ trong giỏ với thân cây của mình endseq
+000000549496.jpg	startseq một con voi đặt một quả bóng_rổ vào cái vòng endseq
+000000477451.jpg	startseq đứa trẻ đang đeo găng_tay bóng chày chôi ngoài sân cỏ endseq
+000000477451.jpg	startseq đứa trẻ đang đeo găng_tay bóng_chày bắt bóng thấp trên sân endseq
+000000477451.jpg	startseq đứa trẻ đang cúi người xuống bắt quả bóng chày endseq
+000000477451.jpg	startseq đứa trẻ đang chơi bóng chày ngoài sân cỏ endseq
+000000477451.jpg	startseq đứa trẻ đeo găng_tay bóng_chày đang chơi ngoài sân endseq
+000000143348.jpg	startseq một nam vận_động_viên tennis đang nhảy lên để đánh bóng endseq
+000000143348.jpg	startseq một người đàn_ông đang nhảy lên để đánh_quả bóng tennis endseq
+000000143348.jpg	startseq một nam vận_động_viên tennis đang vươn người lên để đánh bóng endseq
+000000143348.jpg	startseq một người đàn_ông đang vươn người để đánh_quả bóng tennis endseq
+000000143348.jpg	startseq khán_giả đang theo_dõi cú đánh_bóng của nam vận_động_viên tennis endseq
+000000078986.jpg	startseq bốn nam vận_động_viên tennis đang thi_đấu trên sân endseq
+000000078986.jpg	startseq hình_ảnh một trận thi_đấu tennis đôi nam được chụp từ trên cao endseq
+000000078986.jpg	startseq khán_giả đang theo_dõi một trận thi_đấu tennis đôi nam trên sân endseq
+000000078986.jpg	startseq một trận thi_đấu tennis đôi nam đang diễn ra trên sân endseq
+000000078986.jpg	startseq bốn người đàn_ông đang chơi tennis trên sân endseq
+000000503689.jpg	startseq đứa trẻ đang cầm gậy bóng chày thi_đấu trong trận endseq
+000000503689.jpg	startseq cầu_thủ bóng chày trẻ đang cầm gậy thi_đấu trên sân endseq
+000000503689.jpg	startseq cầu_thủ bóng chày trẻ đang vung gậy bóng chày đánh trả bóng endseq
+000000503689.jpg	startseq đứa trẻ đang chơi bóng_chày trên sân endseq
+000000503689.jpg	startseq cầu_thủ bóng chày trẻ đang vung gậy bóng chày đỡ bóng endseq
+000000246918.jpg	startseq ba hình_ảnh của ba người đàn_ông đang chơi tennis endseq
+000000246918.jpg	startseq ba hình_ảnh khác nhau của người đàn_ông đang giao_bóng endseq
+000000246918.jpg	startseq ba hình_ảnh khác nhau của ba người đàn_ông đang cầm vợt đánh tennis endseq
+000000246918.jpg	startseq một chuỗi những hình_ảnh của những nguwofi đang chơi tennis endseq
+000000246918.jpg	startseq ba hình_ảnh khác nhau của ba người đang đánh tennis endseq
+000000384595.jpg	startseq người đàn_ông áo trắng đang chơi bóng_chày trên sân endseq
+000000384595.jpg	startseq cầu_thủ bóng chày đang cầm gậy đỡ bóng trong trận đấu endseq
+000000384595.jpg	startseq cầu_thủ bóng chày đang cầm gậy thi_đấu trên sân endseq
+000000384595.jpg	startseq cầu_thủ bóng chày đang cầm gậy đứng trên sân đánh bóng endseq
+000000384595.jpg	startseq cầu_thủ bóng chày đang đứng trên sân vung_gậy đánh bóng endseq
+000000222555.jpg	startseq người đàn_ông áo đỏ đang cầm vợt đánh tennis trên sân endseq
+000000222555.jpg	startseq hình_ảnh kép của người đàn_ông áo đỏ đang chơi tennis trên sân endseq
+000000222555.jpg	startseq hai hình_ảnh giống nhau của người đàn_ông áo đỏ đang chơi tennis trên sân endseq
+000000222555.jpg	startseq người đàn_ông đang vung vợt tennis đánh bóng tennis endseq
+000000222555.jpg	startseq người đàn_ông áo đỏ đang cầm vợt tennis thi_đấu trên sân endseq
+000000150981.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị thả quả bóng xuống đất endseq
+000000150981.jpg	startseq một nữ vận_động_viên tennis đang đứng cúi người trên sân endseq
+000000150981.jpg	startseq một nữ vận_động_viên tennis đang chuẩn_bị phát_bóng endseq
+000000150981.jpg	startseq một người phụ_nữ đang cầm vợt tennis và đứng cúi người trên sân endseq
+000000150981.jpg	startseq một người phụ_nữ đang chuẩn_bị phát_bóng trên sân tennis endseq
+000000370851.jpg	startseq những người đàn_ông đang cưỡi voi choi bóng_đá endseq
+000000370851.jpg	startseq những con vui đang được điều_khiển chơi đá bóng endseq
+000000370851.jpg	startseq những người cưỡi voi đang thi_đấu bóng_đá trong sở thú endseq
+000000370851.jpg	startseq một_số người đang cùng nhau đá bóng trên sân trong sở thú endseq
+000000370851.jpg	startseq những người đàn_ông đang cưỡi voi đá bóng trong sở thú endseq
+000000154564.jpg	startseq cầu_thủ áo trắng đang nằm trên sân trong khi cầu_thủ áo đỏ đang đứng cạnh gôn endseq
+000000154564.jpg	startseq cầu_thủ áo đỏ đang đứng cạnh gôn và nhìn cầu_thủ áo trắng nằm trên sân endseq
+000000154564.jpg	startseq cầu_thủ áo đỏ đang đứng cạnh gôn trong khi cầu_thủ áo trắng đang nằm trên sân endseq
+000000154564.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000154564.jpg	startseq các cầu_thủ bóng chày đang thi_đấu trên sân endseq
+000000242712.jpg	startseq người đàn_ông đang ngồi trên cỏ kế bên quả bóng endseq
+000000242712.jpg	startseq người đàn_ông đang ngồi cạnh quả bóng nhìn xuống dưới endseq
+000000242712.jpg	startseq hình_ảnh chụp từ trên của người đàn_ông đang ngồi cạnh quả bóng endseq
+000000242712.jpg	startseq người đàn_ông mặc áo tím đang ngồi trên sân_cỏ cạnh quả bóng endseq
+000000242712.jpg	startseq hình_ảnh cận_cảnh của một người ngồi trên sân_cỏ cùng quả bóng endseq
+000000182861.jpg	startseq một cậu bé đang luyện_tập bóng chày trên sân endseq
+000000182861.jpg	startseq một cậu bé đang nghiêng người để ném quả bóng_chày trong tay endseq
+000000182861.jpg	startseq một cậu bé đang ngửa người để ném quả bóng chày endseq
+000000182861.jpg	startseq một cậu bé đang cầm quả bóng_chày và cái găng_tay trên sân endseq
+000000182861.jpg	startseq một cậu bé đang chuẩn_bị để ném quả bóng_chày trong tay endseq
+000000445073.jpg	startseq hai người đàn_ông đang cầm vợt tennis và bước_đi trên sân endseq
+000000445073.jpg	startseq một trận thi_đấu tennis đôi nam đang diễn ra trên sân endseq
+000000445073.jpg	startseq hai người đàn_ông đang cầm vợt tennis và đứng trên sân endseq
+000000445073.jpg	startseq hai người đàn_ông đang luyện_tập tennis trên sân endseq
+000000445073.jpg	startseq hai người đàn_ông đang chơi tennis trên sân endseq
+000000448826.jpg	startseq một người đàn_ông đang cầm vợt tennis và đứng xoay người trên sân endseq
+000000448826.jpg	startseq một người đàn_ông đang cầm vợt tennis và đứng trên sân endseq
+000000448826.jpg	startseq khán_giả đang theo_dõi một trận thi_đấu tennis nam trên sân endseq
+000000448826.jpg	startseq một nam vận_động_viên tennis đang xoay người trên sân endseq
+000000448826.jpg	startseq một nam vận_động_viên tennis đang đứng trên sân endseq
+000000413324.jpg	startseq một người đàn_ông đang vươn người để đánh_quả bóng tennis endseq
+000000413324.jpg	startseq một nam vận_động_viên tennis đang vung_vợt để đánh bóng endseq
+000000413324.jpg	startseq một người đàn_ông đang vung_vợt để đánh_quả bóng tennis endseq
+000000413324.jpg	startseq một nam vận_động_viên tennis đang nhảy lên để đánh bóng endseq
+000000413324.jpg	startseq một người đàn_ông đang nhảy lên để đánh_quả bóng tennis endseq
+000000558942.jpg	startseq quang_cảnh một khu vườn với khung_thành và quả bóng_đá endseq
+000000558942.jpg	startseq trên sân_cỏ một quả bóng đang nằm dưới cái lưới endseq
+000000558942.jpg	startseq trong vườn một quả bóng đang nằm dưới cái lưới endseq
+000000558942.jpg	startseq trong vườn một quả bóng đang nằm trong khung_thành endseq
+000000558942.jpg	startseq trên sân_cỏ một quả bóng đang nằm trong khung_thành endseq
+000000267289.jpg	startseq cầu_thủ bóng chày đang vung gậy bóng chày đánh_tả bóng endseq
+000000267289.jpg	startseq cầu_thủ bóng chày đang đứng trên sân_nhà vung vợt đỡ bóng endseq
+000000267289.jpg	startseq người đàn_ông áo trắng đang chơi bóng_chày trên sân endseq
+000000267289.jpg	startseq cầu_thủ bóng chày đang cầm gậy bóng chày thi_đấu trên sân endseq
+000000267289.jpg	startseq cầu_thủ đánh bóng đang đứng trên sân_nhà đỡ bóng bằng gậy endseq
+000000240225.jpg	startseq hai đứa trẻ đang cùng nhau chơi với quả bóng_đá trên sân cỏ endseq
+000000240225.jpg	startseq hình_ảnh của hai đứa trẻ đang chơi bóng_đá trên sân cỏ endseq
+000000240225.jpg	startseq hình_ảnh hai đứa trẻ đang cùng nhau đá bóng trên sân_cỏ dưới trời nắng endseq
+000000240225.jpg	startseq hai đứa trẻ đang chơi với quả bóng_đá dưới trời nắng endseq
+000000240225.jpg	startseq hình_ảnh của hai đứa trẻ đang đá bóng trên sân cỏ endseq
+000000118535.jpg	startseq cầu_thủ đánh bóng cầu_thủ bắt bóng và trọng_tài đang đứng gôn endseq
+000000118535.jpg	startseq cầu_thủ đánh bóng đang cầm_gậy và đứng cạnh trọng_tài và cầu_thủ bắt bóng endseq
+000000118535.jpg	startseq cầu_thủ bắt bóng đang đứng cạnh trọng_tài và cầu_thủ đánh bóng endseq
+000000118535.jpg	startseq những người đàn_ông đang đứng trên sân bóng chày endseq
+000000118535.jpg	startseq trọng_tài đang bước về phía cầu_thủ đánh bóng và cầu_thủ bắt bóng endseq
+000000216114.jpg	startseq đứa trẻ mặc đồ bóng_chày đang cầm gậy thi_đấu trên sân endseq
+000000216114.jpg	startseq hình_ảnh của một trận đấu bóng chày đang diễn ra ngoài sân endseq
+000000216114.jpg	startseq đứa trẻ đang vung gậy bóng_chày đánh bóng trong trận bóng chày endseq
+000000216114.jpg	startseq các cầu_thủ bóng chày trẻ đang thi_đấu ngoài sân endseq
+000000216114.jpg	startseq những đứa trẻ đang mặc đồ bóng chày thi_đấu bóng_chày trên sân endseq
+000000101249.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000101249.jpg	startseq các cầu_thủ bóng chày đang thi_đấu trên sân endseq
+000000101249.jpg	startseq quả bóng đang bay về phía cầu_thủ bắt bóng endseq
+000000101249.jpg	startseq cầu_thủ bắt bóng đang chuẩn_bị bắt quả bóng endseq
+000000101249.jpg	startseq cầu_thủ đánh bóng đang vung_gậy để đánh bóng endseq
+000000019318.jpg	startseq hai cầu_thủ bóng chày đang va_chạm với nhau khi chơi bóng endseq
+000000019318.jpg	startseq một trận thi_đấu bóng chày nam đang diễn ra trên sân endseq
+000000019318.jpg	startseq cầu_thủ số đang va_chạm với cầu_thủ bắt bóng endseq
+000000019318.jpg	startseq cầu_thủ bắt bóng đang cố_gắng tránh cầu_thủ số endseq
+000000019318.jpg	startseq cầu_thủ chạy gôn đang bay người vào cầu_thủ bắt bóng endseq
+000000045071.jpg	startseq trong phòng có một con mèo quả bóng màu vàng và cái vali endseq
+000000045071.jpg	startseq bên cạnh cái vali và con mèo quả bóng màu vàng đang nằm trên sàn endseq
+000000045071.jpg	startseq trên cái vali một con mèo đang nằm endseq
+000000045071.jpg	startseq bên cạnh quả bóng màu vàng một con mèo đang nằm trên cái vali endseq
+000000045071.jpg	startseq con mèo đang nằm trên cái vali cạnh quả bóng màu vàng endseq
+000000245598.jpg	startseq đứa trẻ đang cầm gậy bóng chày đánh trả bóng trên sân endseq
+000000245598.jpg	startseq đứa trẻ đang cầm gậy đỡ bóng trên sân trong trận bóng chày endseq
+000000245598.jpg	startseq đứa trẻ đang cầm gậy bóng chày vung gậy đánh trả bóng endseq
+000000245598.jpg	startseq đứa trẻ đang cầm gậy bóng chày thi_đấu trên sân endseq
+000000245598.jpg	startseq đứa trẻ áo xanh lá đang chơi bóng_chày trên sân endseq
+000000328574.jpg	startseq hai nguời đàn_ông đang cưỡi ngựa và cầm súng trên tay endseq
+000000328574.jpg	startseq hai người đàn_ông đang phi ngựa qua chướng_ngại vật endseq
+000000328574.jpg	startseq hai người đàn_ông cưỡi ngựa đang nhảy qua chướng_ngại vật endseq
+000000328574.jpg	startseq hai người đàn_ông đang thi_đua ngựa trên sân endseq
+000000328574.jpg	startseq hai người đàn_ông đang cưỡi ngựa trên sân endseq
+000000554036.jpg	startseq một trận bóng_chày đang diễn ra với sự vung gậy endseq
+000000554036.jpg	startseq một cầu_thủ bóng chày vung_gậy để đánh bóng endseq
+000000554036.jpg	startseq một cầu_thủ bóng chày đánh bóng chày trong một trận bóng chày endseq
+000000554036.jpg	startseq một người đàn_ông sắp đánh bóng trong một trận bóng chày endseq
+000000554036.jpg	startseq một cầu_thủ bóng chày cầm gậy trên sân bóng chày endseq
+000000388641.jpg	startseq vận_động_viên tennis đang đứng trên sân đỡ bóng endseq
+000000388641.jpg	startseq người phụ_nữ áo đỏ đang chơi tennis trên sân endseq
+000000388641.jpg	startseq vận_động_viên tennis nữ đang vung_vợt đánh bóng endseq
+000000388641.jpg	startseq vận_động_viên tennis nữ đang cầm vợt thi_đấu trên sân endseq
+000000388641.jpg	startseq vận_động_viên tennis đang cầm vợt đánh bóng trên sân endseq
+000000085948.jpg	startseq khán_giả đang theo_dõi buổi biểu_diễn xiếc voi endseq
+000000085948.jpg	startseq con voi đang dùng vòi để đưa bóng vào rổ trên sân_khấu endseq
+000000085948.jpg	startseq một con voi đang chơi bóng_rổ giữa đám đông endseq
+000000085948.jpg	startseq một con voi đang chơi bóng_rổ trên sân_khấu endseq
+000000085948.jpg	startseq một buổi biểu_diễn xiếc voi đang diễn ra endseq
+000000157239.jpg	startseq một người phụ_nữ đang chuẩn_bị đánh_quả bóng tennis endseq
+000000157239.jpg	startseq hai hình_ảnh của một nữ vận_động_viên tennis đang vung_vợt để đánh bóng endseq
+000000157239.jpg	startseq hai hình_ảnh của một người phụ_nữ đang vung_vợt để đánh_quả bóng tennis endseq
+000000157239.jpg	startseq một người phụ_nữ đang vung_vợt để đánh_quả bóng tennis endseq
+000000157239.jpg	startseq một nữ vận_động_viên tennis đang vung_vợt để đánh bóng endseq
+000000043873.jpg	startseq bên trái con gấu một quả bóng đang nổi trên mặt hồ endseq
+000000043873.jpg	startseq một con gấu đang đứng trên tảng đá cạnh hồ nước endseq
+000000043873.jpg	startseq một con gấu đang đứng cạnh vũng nước trong sở thú endseq
+000000043873.jpg	startseq một con gấu đang được đứng cạnh hồ nước trong sở thú endseq
+000000043873.jpg	startseq bên trái con gấu một quả bóng đang nổi trên mặt_nước endseq
+000000023098.jpg	startseq người mẹ đang theo_dõi động_tác đánh_bóng của con gái mình endseq
+000000023098.jpg	startseq cô bé và mẹ của mình đang luyện_tập chơi tennis gần nhà endseq
+000000023098.jpg	startseq cô bé đang bước tới trước để thực_hiện động_tác đánh bóng endseq
+000000023098.jpg	startseq cô bé đang luyện_tập chơi tennis cùng với mẹ trên sân vào ban_ngày endseq
+000000023098.jpg	startseq cô bé đang luyện_tập chơi tennis cùng với huấn_luyện_viên trên sân vào ban_ngày endseq
+000000390213.jpg	startseq hai hình_ảnh giống nhau của người phụ_nữ đang chơi tennis endseq
+000000390213.jpg	startseq vận_động_viên tennis nữ đang cầm vợt đỡ bóng thấp endseq
+000000390213.jpg	startseq vận_động_viên tennis đang vung_vợt đánh bóng endseq
+000000390213.jpg	startseq hình_ảnh kép của người phụ_nữ đang chơi tennis endseq
+000000390213.jpg	startseq vận_động_viên tennis nữ đang cầm vợt thi_đấu trên sân endseq
+000000242739.jpg	startseq một nhóm trẻ_em chơi với một quả bóng_đá khổng_lồ trong bãi đậu xe endseq
+000000242739.jpg	startseq một_số trẻ_em chơi với một quả bóng_đá lớn endseq
+000000242739.jpg	startseq năm cô gái chơi với một quả bóng_đá lớn endseq
+000000242739.jpg	startseq một người phụ_nữ và một nhóm những đứa trẻ đi qua một bãi đậu xe endseq
+000000242739.jpg	startseq một_vài đứa trẻ đang chơi với một quả bóng endseq
+000000471558.jpg	startseq vận_động_viên tennis nam đang nhảy tới đỡ bóng endseq
+000000471558.jpg	startseq vận_động_viên tennis nam đang cầm vợt thi_đấu trên sân endseq
+000000471558.jpg	startseq hình_ảnh kép của người đàn_ông đang chơi tennis trên sân endseq
+000000471558.jpg	startseq hai hình_ảnh giống nhau của người đàn_ông đang chơi tennis trên sân endseq
+000000471558.jpg	startseq vận_động_viên tennis nam đang vung vợt tennis đánh trả bóng endseq
+000000446557.jpg	startseq một cô bé đang cầm quả bóng_chày bằng cái găng_tay endseq
+000000446557.jpg	startseq một cậu bé đang cầm quả bóng_chày bằng cái găng_tay endseq
+000000446557.jpg	startseq một cầu_thủ bắt bóng đang giữ quả bóng trong găng_tay endseq
+000000446557.jpg	startseq một cậu bé đang giữ quả bóng_chày trong cái găng_tay endseq
+000000446557.jpg	startseq một cô bé đang giữ quả bóng_chày trong cái găng_tay endseq
+000000371735.jpg	startseq người đàn_ông đang cầm_vợt và bóng_tennis chuẩn_bị giao_bóng endseq
+000000371735.jpg	startseq người đàn_ông áo trắng đang chơi tennis trên sân endseq
+000000371735.jpg	startseq người đàn_ông áo trắng đang cầm vợt tennis đứng trên sân endseq
+000000371735.jpg	startseq người đàn_ông đang cầm vợt tennis đứng ngoài biên giao_bóng endseq
+000000371735.jpg	startseq người đàn_ông đang đứng trên sân tennis chuẩn_bị giao_bóng endseq
+000000465198.jpg	startseq trên sân tennis một người phụ_nữ đang đưa vợt lên cao và nhìn lên quả bóng endseq
+000000465198.jpg	startseq trên sân tennis một người phụ_nữ đang quan_sát quả bóng để phát_bóng endseq
+000000465198.jpg	startseq trên sân một nữ vận_động_viên tennis đang quan_sát quả bóng để phát_bóng endseq
+000000465198.jpg	startseq trên sân tennis một người phụ_nữ đang chuẩn_bị phát_bóng endseq
+000000465198.jpg	startseq trên sân một nữ vận_động_viên tennis đang chuẩn_bị phát_bóng endseq
+000000392776.jpg	startseq người phụ_nữ đang chơi tennis trên sân dưới trời nắng endseq
+000000392776.jpg	startseq người phụ_nữ cầm vợt tennis chuẩn_bị giao_bóng endseq
+000000392776.jpg	startseq người phụ_nữ đang cầm vợt chơi tennis trên sân endseq
+000000392776.jpg	startseq người phụ_nữ mặc đồ tím đang chơi tennis trến sân endseq
+000000392776.jpg	startseq người phụ_nữ đang cầm vợt tennis chuẩn_bị nhặt bóng endseq
+000000267957.jpg	startseq cầu_thủ bóng chày đang cầm gậy bóng_chày sẵn_sàng đỡ bóng endseq
+000000267957.jpg	startseq cầu_thủ bóng chày đang cầm gậy thi_đấu trên sân endseq
+000000267957.jpg	startseq người đàn_ông áo trắng đang chơi bóng_chày trên sân endseq
+000000267957.jpg	startseq cầu_thủ bóng chày cầm gậy đứng trên sân chuẩn_bị đỡ bóng endseq
+000000267957.jpg	startseq cầu_thủ bóng chày đang vung gậy bóng chày đánh trả bóng endseq
+000000272735.jpg	startseq đứa trẻ đang cầm vợt đánh tennis trên sân endseq
+000000272735.jpg	startseq đứa trẻ áo xanh lá đang chơi tennis trên sân endseq
+000000272735.jpg	startseq đứa trẻ đang đứng gần lưới cầm vợt tennis đỡ bóng endseq
+000000272735.jpg	startseq đứa trẻ đang vung vợt tennis đánh trả bóng endseq
+000000272735.jpg	startseq đứa trẻ đang cầm vợt tennis đứng gần lưới sẵn_sàng đánh trả bóng endseq
+000000102835.jpg	startseq một nam vận_động_viên tennis đang nhảy lên trên sân endseq
+000000102835.jpg	startseq một người đàn_ông đang nhảy lên không trên sân tennis endseq
+000000102835.jpg	startseq hai vận_động_viên tennis đang nhảy lên trên sân endseq
+000000102835.jpg	startseq một nam vận_động_viên tennis đang nhảy lên để đánh bóng endseq
+000000102835.jpg	startseq một người đàn_ông đang nhảy lên để chuẩn_bị đánh bóng trên sân tennis endseq
+000000059252.jpg	startseq những người đàn_ông đang chơi bóng_đá trên sân endseq
+000000059252.jpg	startseq những người đàn_ông đang xếp_hàng trên sân endseq
+000000059252.jpg	startseq các cầu_thủ bóng_đá đang khởi_động trước trận đấu endseq
+000000059252.jpg	startseq các cầu_thủ bóng_đá đang đứng trên sân endseq
+000000059252.jpg	startseq các cầu_thủ bóng_đá đang xếp_hàng trên sân endseq
+000000045554.jpg	startseq một cầu_thủ đánh bóng đang dùng gậy của mình để đánh_quả bóng endseq
+000000045554.jpg	startseq một cầu_thủ đánh bóng đang vung_gậy để đánh bóng endseq
+000000045554.jpg	startseq hai cầu_thủ bóng_chày và trọng_tài đang đứng gôn endseq
+000000045554.jpg	startseq những người đàn_ông đang chơi bóng_chày ngoài_trời endseq
+000000045554.jpg	startseq một người đàn_ông đang giơ gậy lên để đánh_quả bóng chày endseq
+000000532014.jpg	startseq đứa trẻ đang cầm gậy bóng chày thi_đấu ngoài sân endseq
+000000532014.jpg	startseq đứa trẻ đang chơi bóng chày ngoài sân endseq
+000000532014.jpg	startseq đứa trẻ đang vung gậy bóng chày đánh trả bóng endseq
+000000532014.jpg	startseq đứa trẻ đang cầm gậy chơi bóng chày ngoài sân endseq
+000000532014.jpg	startseq đứa trẻ đang vung gậy bóng_chày đánh bóng endseq
+000000073212.jpg	startseq một người đàn_ông đang giơ_vợt để đánh_quả bóng tennis endseq
+000000073212.jpg	startseq một người đàn_ông đang luyện_tập tennis trên sân endseq
+000000073212.jpg	startseq một người đàn_ông đang dùng vợt để đánh_quả bóng tennis endseq
+000000073212.jpg	startseq một người đàn_ông đang cầm_vợt và đứng trên sân tennis endseq
+000000073212.jpg	startseq một người đàn_ông đang chơi tennis trên sân endseq
+000000076740.jpg	startseq một nữ vận_động_viên tennis đang nhón chân để đánh bóng endseq
+000000076740.jpg	startseq một người phụ_nữ đang đánh_quả bóng tennis trên sân endseq
+000000076740.jpg	startseq một người phụ_nữ đang nhón chân để đánh_quả bóng tennis endseq
+000000076740.jpg	startseq một người phụ_nữ đang vung_vợt để đánh_quả bóng tennis trên sân endseq
+000000076740.jpg	startseq một nữ vận_động_viên tennis đang đánh bóng endseq
+000000555956.jpg	startseq một cậu bé chơi tennis với cây vợt của mình cào xuống đất endseq
+000000555956.jpg	startseq một người_lớn dạy một đứa trẻ chơi tennis trên sân nhựa_đường endseq
+000000555956.jpg	startseq một người đàn_ông dạy một cậu bé chơi tennis endseq
+000000555956.jpg	startseq một người đàn_ông và một cậu bé đứng trên sân tennis cầm vợt tennis endseq
+000000555956.jpg	startseq một người đàn_ông và một đứa trẻ đang chơi trên sân tennis endseq
+000000378081.jpg	startseq người đàn_ông đang vung vợt tennis đánh bóng endseq
+000000378081.jpg	startseq người đàn_ông đang cầm vợt đứng ngoài biên_đánh bóng endseq
+000000378081.jpg	startseq người đàn_ông áo xanh lá đang chơi tennis trên sân endseq
+000000378081.jpg	startseq người đàn_ông đang cầm vợt đánh tennis trên sân endseq
+000000378081.jpg	startseq người đàn_ông đang cầm vợt bước sáng phải đánh bóng endseq
+000000481168.jpg	startseq người phụ_nữ áo trắng đang chơi tennis trên sân endseq
+000000481168.jpg	startseq đứa trẻ đang cầm vợt tennis nhảy lên đánh bóng endseq
+000000481168.jpg	startseq đứa trẻ đang nhảy lên vung vợt tennis bằng hai tay đỡ bóng endseq
+000000481168.jpg	startseq đứa trẻ đang vung vợt tennis đánh trả bóng endseq
+000000481168.jpg	startseq đứa trẻ áo trắng đang cầm vợt đánh tennis endseq
+000000376843.jpg	startseq vận_động_viên tennis đang cầm vợt đứng ngoài biên_đỡ bóng endseq
+000000376843.jpg	startseq người đàn_ông áo xanh biển đang chơi tennis trên sân endseq
+000000376843.jpg	startseq vận_động_viên tennis đang cầm vợt đứng ngoài sân đánh bóng endseq
+000000376843.jpg	startseq vận_động_viên tennis đang đứng ngoài biên_đánh bóng endseq
+000000376843.jpg	startseq vận_động_viên tennis đang cầm vợt thi_đấu trên sân endseq
+000000362898.jpg	startseq hai hình_ảnh giống nhau của thủ_môn đang bảo về cầu_môn endseq
+000000362898.jpg	startseq thủ_môn đang nhảy sang phải cố_gắng bảo về cầu_môn endseq
+000000362898.jpg	startseq thủ_môn nam vừa thất_bại bảo_vệ cầu_môn endseq
+000000362898.jpg	startseq thủ_môn đang nhảy sang phải trước cầu_môn cố_gắng bắt bóng endseq
+000000362898.jpg	startseq hình_ảnh kép của thủ_môn đang nhảy lên bắt bóng endseq
+000000509030.jpg	startseq đứa trẻ đội mũ bóng_chày đang chơi bóng chày ngoài sân endseq
+000000509030.jpg	startseq đứa trẻ đang ném quả bóng chày trong trận trước nhiều người quan_sát endseq
+000000509030.jpg	startseq đứa trẻ đang bước tới ném bóng endseq
+000000509030.jpg	startseq cầu_thủ bóng chày trẻ đang ném bóng về phía trước endseq
+000000509030.jpg	startseq đứa trẻ đang chơi bóng chày ngoài sân endseq
+000000463758.jpg	startseq một người đàn_ông đang sải bước để đánh_quả bóng tennis endseq
+000000463758.jpg	startseq một người đàn_ông đang bay người để đánh_quả bóng tennis endseq
+000000463758.jpg	startseq một nam vận_động_viên tennis đang sải bước để đánh bóng endseq
+000000463758.jpg	startseq một nam vận_động_viên tennis đang bay người để đánh bóng endseq
+000000463758.jpg	startseq hai bức ảnh của một người đàn_ông đang chơi tennis trên sân endseq
+000000333383.jpg	startseq người phụ_nữ đang cầm vợt tennis đánh bóng endseq
+000000333383.jpg	startseq vận_động_viên tennis nữ đang thi_đấu trên sân endseq
+000000333383.jpg	startseq người phụ_nữ đang vung vợt tennis về phía bóng endseq
+000000333383.jpg	startseq hình_ảnh đôi của người phụ_nữ đang chơi tennis trên sân endseq
+000000333383.jpg	startseq người phụ_nữ váy ngắn đang cầm vợt tennis chơi trên sân endseq
+000000581409.jpg	startseq một cậu bé đang luyện_tập bóng chày trên sân endseq
+000000581409.jpg	startseq một cậu bé đang chuẩn_bị đánh_quả bóng chày endseq
+000000581409.jpg	startseq một cậu bé đang giơ gậy ra sau để đánh_quả bóng chày endseq
+000000581409.jpg	startseq một cầu_thủ đánh bóng đang giơ gậy ra sau để đánh bóng endseq
+000000581409.jpg	startseq một cầu_thủ đánh bóng đang chuẩn_bị đánh bóng endseq
+000000458147.jpg	startseq hai nam vận_động_viên tennis đang di_chuyển trên sân endseq
+000000458147.jpg	startseq hai người đàn_ông đang cầm_vợt và di_chuyển trên sân tennis endseq
+000000458147.jpg	startseq hai bức ảnh của hai người đàn_ông đang chơi tennis trên sân endseq
+000000458147.jpg	startseq hai người đàn_ông đang chơi tennis trên sân endseq
+000000458147.jpg	startseq hai nam vận_động_viên tennis đang thi_đấu trên sân endseq
+000000517906.jpg	startseq một đứa trẻ đang cầm vợt đánh tennis trên sân endseq
+000000517906.jpg	startseq đứa trẻ cầm vợt tennis đánh trả bóng endseq
+000000517906.jpg	startseq đứa bé gái đang cầm vợt tennis đỡ bóng cao endseq
+000000517906.jpg	startseq một đứa trẻ đang chơi tennis trên sân endseq
+000000517906.jpg	startseq đứa trẻ cầm vợt tennis giơ lên đánh bóng endseq
+000000176477.jpg	startseq một nam vận_động_viên tennis đang nhảy lên để đánh bóng endseq
+000000176477.jpg	startseq một người đàn_ông đang rướn người để đánh_quả bóng tennis endseq
+000000176477.jpg	startseq một người đàn_ông đang nhảy lên để đánh_quả bóng tennis endseq
+000000176477.jpg	startseq một người đàn_ông đang bay người để đánh_quả bóng tennis endseq
+000000176477.jpg	startseq một nam vận_động_viên tennis đang bay người để đánh bóng endseq
+000000131522.jpg	startseq khán_giả đang theo_dõi cú đánh bóng của cầu_thủ đánh bóng endseq
+000000131522.jpg	startseq một cầu_thủ đánh bóng đang vung_gậy để đánh bóng endseq
+000000131522.jpg	startseq một người đàn_ông đang xoay người để đánh_quả bóng chày endseq
+000000131522.jpg	startseq một cầu_thủ đánh bóng đang xoay người để đánh bóng endseq
+000000131522.jpg	startseq một người đàn_ông đang vung_gậy để đánh_quả bóng chày endseq
+000000334171.jpg	startseq một cậu bé đang chạy xe_đạp quan_sát cậu bé khác chơi bóng chày endseq
+000000334171.jpg	startseq hình_ảnh của một đứa trẻ chạy xe_đạp và một đứa trẻ chơi bóng chày ngoài sân endseq
+000000334171.jpg	startseq cậu bé áo xám đang vung gậy bóng chày về phía bóng endseq
+000000334171.jpg	startseq hai đứa trẻ đang chơi ngoài công_viên endseq
+000000334171.jpg	startseq một đứa trẻ đang cầm vợt bóng chày đứng trên cỏ endseq
+000000520434.jpg	startseq hình_ảnh kép của người phụ_nữ đang thi_đấu tennis trên sân endseq
+000000520434.jpg	startseq người phụ_nữ đang vung tennis đánh trả bóng endseq
+000000520434.jpg	startseq hai hình_ảnh giống nhau của người phụ_nữ chơi tennis trên sân endseq
+000000520434.jpg	startseq hình_ảnh kép người phụ_nữ đang vung vợt tennis đánh bóng endseq
+000000520434.jpg	startseq người phụ_nữ cầm vợt tennis bước tới đỡ bóng endseq
+000000246875.jpg	startseq cầu_thủ đánh bóng nữ đang đứng trước cầu_thủ bắt bóng nữ đỡ bóng endseq
+000000246875.jpg	startseq người phụ_nữ áo đỏ đang chơi bóng_chày trên sân endseq
+000000246875.jpg	startseq cầu_thủ bóng chày nữ đang cầm gậy chơi bóng_chày trên sân endseq
+000000246875.jpg	startseq cầu_thủ bóng chày nữ đang cầm gậy đứng một chân trên sân đỡ bóng endseq
+000000246875.jpg	startseq cầu_thủ bóng chày nữ đang vung_gậy đánh bóng trên sân endseq
+000000020698.jpg	startseq cậu bé nghiêng người để đỡ quả bóng bằng vợt của mình endseq
+000000020698.jpg	startseq cậu bé đang chơi_đùa trên sân tennis cùng với quả bóng và cái vợt endseq
+000000020698.jpg	startseq cậu bé đang luyện_tập chơi tennis trên sân endseq
+000000020698.jpg	startseq vận_động_viên tennis nhỏ_tuổi đang luyện_tập trên sân endseq
+000000020698.jpg	startseq cậu bé đang dùng vợt tennis để đỡ bóng trên sân endseq
+000000321346.jpg	startseq vận_động_viên tennis đang thi_đấu trên sân endseq
+000000321346.jpg	startseq vận_động_viên tennis đang đứng ngoài biên_phát bóng endseq
+000000321346.jpg	startseq người đàn_ông đang cầm vợt tennis chuẩn_bị giao_bóng endseq
+000000321346.jpg	startseq vận_động_viên tennis nam đang cầm_vợt và bóng trên tay endseq
+000000321346.jpg	startseq người đàn_ông áo xanh biển đang chơi tennis trên sân endseq
+000000169494.jpg	startseq những người đàn_ông đang chơi bóng_chày ngoài_trời endseq
+000000169494.jpg	startseq một cầu_thủ bóng chày đang theo_dõi chuyển_động của hai cầu_thủ gôn endseq
+000000169494.jpg	startseq cầu_thủ bắt bóng đang nhảy lên để bắt_bóng trong khi cầu_thủ số đang chạy về gôn endseq
+000000169494.jpg	startseq những người đàn_ông đang luyện_tập bóng chày ngoài_trời endseq
+000000169494.jpg	startseq cầu_thủ số đang chạy về gôn trong khi cầu_thủ bắt bóng đang nhảy lên để bắt bóng endseq
+000000259186.jpg	startseq hình_ảnh kép của người đàn_ông đang chơi tennis trên sân endseq
+000000259186.jpg	startseq vận_động_viên tennis nam đang cầm vợt tennis đỡ bóng cao endseq
+000000259186.jpg	startseq vận_động_viên tennis nam đang cầm vợt nhảy lên đánh trả bóng endseq
+000000259186.jpg	startseq vận_động_viên tennis nam đang vung vợt tennis đánh trả bóng endseq
+000000259186.jpg	startseq hai hình_ảnh của người đàn_ông áo đỏ đang cầm vợt tennis thi_đấu trên sân endseq
+000000507969.jpg	startseq người đàn_ông đang chơi bóng_rổ trên sân endseq
+000000507969.jpg	startseq người đàn_ông đang đứng trên sân ném rổ endseq
+000000507969.jpg	startseq người đàn_ông đang cầm quả bóng_rổ một tay đứng trên sân endseq
+000000507969.jpg	startseq người đàn_ông đang cầm quả bóng_rổ trên tay chuẩn_bị ném rổ endseq
+000000507969.jpg	startseq người đàn_ông đang cầm quả bóng_rổ chuẩn_bị ghi bàn endseq
+000000453682.jpg	startseq môt người đàn_ông đang giơ gậy bóng chày lên cao gôn endseq
+000000453682.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000453682.jpg	startseq một cầu_thủ bắt bóng đang đưa tay ra để bắt bóng endseq
+000000453682.jpg	startseq môt cầu_thủ đánh bóng đang giơ gậy lên cao gôn endseq
+000000453682.jpg	startseq các cầu_thủ bóng chày đang thi_đấu trên sân endseq
+000000431167.jpg	startseq một cầu_thủ đánh bóng đang vung_gậy để đánh bóng endseq
+000000431167.jpg	startseq một người đàn_ông đang cầm gậy bóng_chày và xoay người gôn endseq
+000000431167.jpg	startseq một cầu_thủ đánh bóng đang xoay người để đánh bóng endseq
+000000431167.jpg	startseq một cầu_thủ đánh bóng đang cầm_gậy và xoay người gôn endseq
+000000431167.jpg	startseq một người đàn_ông đang vung gậy bóng_chày để đánh bóng endseq
+000000364941.jpg	startseq vận_động_viên tennis đang cầm vợt thi_đấu trên sân endseq
+000000364941.jpg	startseq vận_động_viên tennis đứng trên sân vung_vợt đánh bóng endseq
+000000364941.jpg	startseq vận_động_viên tennis nam đang cầm vợt đỡ bóng thấp endseq
+000000364941.jpg	startseq người đàn_ông mặc áo xanh lá đang chơi tennis trên sân endseq
+000000364941.jpg	startseq vận_động_viên tennis nam đang cầm vợt đứng ngoài biên_đỡ bóng endseq
+000000085564.jpg	startseq cầu_thủ đánh bóng đang giơ gậy lên cao để đánh bóng endseq
+000000085564.jpg	startseq cầu_thủ ném bóng đang xoay người để chuẩn_bị ném bóng endseq
+000000085564.jpg	startseq khán_giả đang theo_dõi một trận thi_đấu bóng chày nam endseq
+000000085564.jpg	startseq các cầu_thủ bóng chày đang thi_đấu trên sân endseq
+000000085564.jpg	startseq những người đàn_ông đang chơi bóng_chày trên sân endseq
+000000416535.jpg	startseq hai hình_ảnh của một nữ vận_động_viên tennis đang thi_đấu trên sân endseq
+000000416535.jpg	startseq một người phụ_nữ đang nhảy lên trên sân tennis endseq
+000000416535.jpg	startseq một nữ vận_động_viên tennis đang đưa vợt qua phải trên sân endseq
+000000416535.jpg	startseq một người phụ_nữ đang đưa vợt qua phải trên sân tennis endseq
+000000416535.jpg	startseq một nữ vận_động_viên tennis đang nhảy lên trên sân endseq
+000000435161.jpg	startseq những người đàn_ông đang chơi bóng_đá trên sân endseq
+000000435161.jpg	startseq một cầu_thủ áo xanh đang nhảy lên trước khung_thành endseq
+000000435161.jpg	startseq các cầu_thủ bóng_đá đang quan_sát đường_bay của quả bóng endseq
+000000435161.jpg	startseq hai bức ảnh của một trận thi_đấu bóng_đá nam trên sân endseq
+000000435161.jpg	startseq các cầu_thủ bóng_đá đang thi_đấu trên sân endseq
+000000188029.jpg	startseq một trận thi_đấu bóng chày nữ đang diễn ra trên sân endseq
+000000188029.jpg	startseq khán_giả đang theo_dõi trận thi_đấu bóng chày nữ trên sân endseq
+000000188029.jpg	startseq cầu_thủ nữ ném bóng đang chuẩn_bị ném bóng về phía đối_thủ endseq
+000000188029.jpg	startseq cầu_thủ ném bóng nữ đang thực_hiện động_tác ném bóng endseq
+000000188029.jpg	startseq cầu_thủ ném bóng đang cầm quả bóng trên tay để ném endseq

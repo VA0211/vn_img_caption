@@ -1,0 +1,10 @@
+tensorflow 
+keras 
+pillow 
+numpy 
+tqdm 
+underthesea 
+gensim 
+fasttext 
+nltk 
+Keras-Preprocessing
