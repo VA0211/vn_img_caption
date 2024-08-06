@@ -51,5 +51,5 @@ The model architecture used in this project is defined as follows:
 ## Acknowledgements
 Please note that this version of the dataset contains only sport-related images, so the model is specifically trained and optimized for generating captions for sports images. The model was trained on Kaggle, utilizing the dataset and word vectors available on the Kaggle platform
 
-- **UIT-ViIC Dataset**: [Link to Dataset](https://www.kaggle.com/datasets/vitngquang/uit-viic-v1-0-vietnamese-image-captioning)]
+- **UIT-ViIC Dataset**: [Link to Dataset](https://www.kaggle.com/datasets/vitngquang/uit-viic-v1-0-vietnamese-image-captioning)
 - **fasttext-vietnamese-word-vectors**: [Link to word vectors](https://www.kaggle.com/datasets/aeryss/fasttext-vietnamese-word-vectors-full)
