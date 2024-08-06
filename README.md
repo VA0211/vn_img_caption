@@ -1,5 +1,3 @@
-# Vietnamese Image Captioning Project
-
 ## Overview
 
 This project focuses on generating captions for images in Vietnamese using a deep learning model. The primary components of the project include feature extraction from images using MobileNetV3Large and creating word embeddings using fasttext-vietnamese-word-vectors. The dataset used for training is the UIT-ViIC dataset.
